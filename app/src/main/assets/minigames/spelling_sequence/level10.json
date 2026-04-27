@@ -1,0 +1,7 @@
+{
+  "title": "Daylight Friend",
+  "correctAnswer": "SUN",
+  "hints": "Spell SUN",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

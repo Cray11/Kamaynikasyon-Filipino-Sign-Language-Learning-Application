@@ -1,0 +1,7 @@
+{
+  "title": "Garden Bloom",
+  "correctAnswer": "FLOWER",
+  "hints": "Spell FLOWER",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

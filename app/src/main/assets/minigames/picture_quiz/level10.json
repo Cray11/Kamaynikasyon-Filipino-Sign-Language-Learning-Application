@@ -1,0 +1,8 @@
+{
+  "title": "Night Sky",
+  "media": { "type": "image", "path": "img/picture_quiz/star.png" },
+  "correctAnswer": "STAR",
+  "hints": "A bright point of light seen in the night sky",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

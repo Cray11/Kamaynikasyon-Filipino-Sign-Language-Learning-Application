@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/Widget.Kamaynikasyon.Card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/margin_standard"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?android:attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/card_padding">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_lesson_title"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Lesson Title"
+                android:textAppearance="@style/TextAppearance.Kamaynikasyon.Headline3" />
+
+            <TextView
+                android:id="@+id/tv_lesson_difficulty"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Easy"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:background="@drawable/difficulty_badge"
+                android:padding="8dp"
+                android:layout_marginStart="8dp" />
+
+            <TextView
+                android:id="@+id/tv_completed_badge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="Completed"
+                android:textSize="12sp"
+                android:textColor="@color/white"
+                android:background="@drawable/chip_background"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingTop="6dp"
+                android:paddingBottom="6dp"
+                android:visibility="gone"
+                android:fontFamily="@font/fredoka_family" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_lesson_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lesson description goes here"
+            android:textAppearance="@style/TextAppearance.Kamaynikasyon.Body2"
+            android:layout_marginTop="@dimen/spacing_small" />
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
+

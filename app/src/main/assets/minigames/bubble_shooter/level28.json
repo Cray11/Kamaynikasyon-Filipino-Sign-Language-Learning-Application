@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Stacked Hills",
+    "description": "Wavy hills stacked for layered clears"
+  },
+  "layout": [
+    "1-2-3-4-3-2-1-",
+    "-0-2-3-4-3-2-0-",
+    "0-0-3-4-3-0-0-",
+    "-0-2-3-4-3-2-0-",
+    "1-2-3-4-3-2-1-"
+  ],
+  "ballTypes": [1, 2, 3, 4],
+  "ballLetters": { "1": "N", "2": "O", "3": "P", "4": "Q" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

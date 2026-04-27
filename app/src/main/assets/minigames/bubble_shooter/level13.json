@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Tight Corners",
+    "description": "Bubbles clustered in corners, challenging angles"
+  },
+  "layout": [
+    "1-1-0-0-0-2-2-",
+    "-1-0-0-0-0-0-2",
+    "0-0-3-3-4-4-0-",
+    "-0-3-0-0-0-4-0",
+    "5-5-0-0-0-1-1-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "F", "2": "G", "3": "H", "4": "I", "5": "J"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

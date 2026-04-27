@@ -1,0 +1,104 @@
+{
+  "category": "Basic Needs",
+  "words": [
+    {
+      "id": "basic_needs_001",
+      "name": "Food",
+      "description": "Any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.\nHow to sign:\n1. Use the dominant hand in the 'flat O' handshape (fingertips touching thumb).\n2. Tap the fingertips to the mouth/chin area once or twice.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use the dominant hand in the 'flat O' handshape (fingertips touching thumb). 2. Tap the fingertips to the mouth/chin area once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Food.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_002",
+      "name": "Water",
+      "description": "A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain.\nHow to sign:\n1. Use the dominant hand in the 'W' handshape.\n2. Tap the three fingers on the chin once or twice.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use the dominant hand in the 'W' handshape. 2. Tap the three fingers on the chin once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Water.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_003",
+      "name": "Shelter",
+      "description": "A place giving temporary protection from bad weather or danger.\nHow to sign:\n1. Use both hands in the 'A' or 'S' handshape (fists), held vertically, palms facing each other.\n2. Tap the wrists/forearms together.\n3. Arc the hands slightly over the head.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use both hands in the 'A' or 'S' handshape (fists), held vertically, palms facing each other. 2. Tap the wrists/forearms together. 3. Arc the hands slightly over the head.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Shelter.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_004",
+      "name": "Sleep",
+      "description": "A naturally recurring state of rest for the mind and body.\nHow to sign:\n1. Use the dominant hand in the '5' handshape (open) above the face.\n2. Move the hand down, closing it into a 'flat O' handshape while touching the chin/cheek area.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use the dominant hand in the '5' handshape (open) above the face. 2. Move the hand down, closing it into a 'flat O' handshape while touching the chin/cheek area.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Sleep.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_005",
+      "name": "Safety",
+      "description": "The condition of being protected from or unlikely to cause danger, risk, or injury.\nHow to sign:\n1. Use both hands in the 'S' handshape (fists), dominant hand on top of non-dominant, arms crossed slightly.\n2. Swing the fists outward and down in unison.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use both hands in the 'S' handshape (fists), dominant hand on top of non-dominant, arms crossed slightly. 2. Swing the fists outward and down in unison.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Safety.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_006",
+      "name": "Health care",
+      "description": "The maintenance and improvement of health via the prevention, diagnosis, and treatment of illness, injury, and other physical and mental impairments.\nHow to sign:\n1. Sign HEALTH: Use both '5' hands.\n2. Tap the dominant middle finger on the shoulder, then tap the non-dominant middle finger on the chest.",
+      "category": "Basic Needs",
+      "howToSign": "1. Sign HEALTH: Use both '5' hands. 2. Tap the dominant middle finger on the shoulder, then tap the non-dominant middle finger on the chest.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/HealthCare.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_007",
+      "name": "Clothing",
+      "description": "Items worn to cover the body.\nHow to sign:\n1. Use both hands in the '5' handshape (palms facing in).\n2. Brush the hands down the sides of the chest/body repeatedly.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use both hands in the '5' handshape (palms facing in). 2. Brush the hands down the sides of the chest/body repeatedly.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Clothing.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_008",
+      "name": "Urinate",
+      "description": "To excrete urine.\nHow to sign:\n1. Use the dominant hand in the 'U' handshape (index and middle fingers extended), palm facing down.\n2. Move the hand forward from the crotch area.",
+      "category": "Basic Needs",
+      "howToSign": "1. Use the dominant hand in the 'U' handshape (index and middle fingers extended), palm facing down. 2. Move the hand forward from the crotch area.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Urinate.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_009",
+      "name": "Comfort Room",
+      "description": "Euphemism for restroom or bathroom.\nHow to sign:\n1. Sign BATHROOM: Use the dominant hand in the 'T' handshape (thumb between index and middle fingers).\n2. Shake the hand twice in space.",
+      "category": "Basic Needs",
+      "howToSign": "1. Sign BATHROOM: Use the dominant hand in the 'T' handshape (thumb between index and middle fingers). 2. Shake the hand twice in space.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/ComfortRoom.mp4"
+      }
+    }
+  ]
+}

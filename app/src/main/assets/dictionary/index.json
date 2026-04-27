@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "name": "Alphabet",
+      "description": "Sign language alphabet letters from A to Z",
+      "file": "alphabet.json",
+      "icon": "🔤"
+    },
+    {
+      "name": "Birds",
+      "description": "Sign language vocabulary for birds",
+      "file": "birds.json",
+      "icon": "🐦"
+    },
+    {
+      "name": "Land Mammals",
+      "description": "Sign language vocabulary for land mammals",
+      "file": "land_mammals.json",
+      "icon": "🦁"
+    },
+    {
+      "name": "Reptiles",
+      "description": "Sign language vocabulary for reptiles",
+      "file": "reptiles.json",
+      "icon": "🐍"
+    },
+    {
+      "name": "Greetings",
+      "description": "Common phrases used to greet people and initiate conversations",
+      "file": "greetings.json",
+      "icon": "🤗"
+    },
+    {
+      "name": "Basic Needs",
+      "description": "Sign language vocabulary for basic needs",
+      "file": "basic_needs.json",
+      "icon": "🏠"
+    },
+    {
+      "name": "Fruits",
+      "description": "Sign language vocabulary for fruits",
+      "file": "fruits.json",
+      "icon": "🍎"
+    },
+    {
+      "name": "Introducing",
+      "description": "Phrases used for self-introduction and asking personal information",
+      "file": "introducing.json",
+      "icon": "👤"
+    },
+    {
+      "name": "Farewells",
+      "description": "Phrases used when saying goodbye or ending conversations",
+      "file": "farewells.json",
+      "icon": "👋"
+    },
+    {
+      "name": "School/Office Supplies",
+      "description": "Sign language vocabulary for school/office supplies",
+      "file": "school_supplies.json",
+      "icon": "📚"
+    },
+    {
+      "name": "General Objects/Nature",
+      "description": "Sign language vocabulary for general objects/nature",
+      "file": "general_objects.json",
+      "icon": "🌳"
+    },
+    {
+      "name": "Meals",
+      "description": "Sign language vocabulary for meals",
+      "file": "meals.json",
+      "icon": "🍽️"
+    },
+    {
+      "name": "Occupations",
+      "description": "Sign language vocabulary for occupations",
+      "file": "occupations.json",
+      "icon": "👔"
+    }
+  ]
+}

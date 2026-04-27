@@ -1,0 +1,86 @@
+{
+  "id": "l_birds",
+  "title": "Birds",
+  "description": "Learn birds in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "birds_intro",
+      "type": "text",
+      "title": "Welcome to Birds",
+      "content": "In this lesson, you'll learn how to sign birds in Filipino Sign Language (FSL). You'll learn 2 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Bird.mp4"
+      }
+    },
+    {
+      "id": "birds_001",
+      "type": "text",
+      "title": "How to Sign 'Bird'",
+      "content": "Learn how to sign 'Bird'. A warm-blooded egg-laying vertebrate distinguished by feathers, wings, and a beak. \n\nHow to sign:\n1. Use the dominant hand, forming a \"beak\" with the index finger and thumb. 2. Tap the finger and thumb together near the mouth once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Bird.mp4"
+      }
+    },
+    {
+      "id": "birds_002",
+      "type": "text",
+      "title": "How to Sign 'Chicken'",
+      "content": "Learn how to sign 'Chicken'. A common domestic fowl kept for its eggs or meat. \n\nHow to sign:\n1. Use the dominant hand in the 'G' or 'V' handshape. 2. Start the hand near the mouth. 3. Peck the hand down toward the non-dominant flat palm.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Chicken.mp4"
+      }
+    },
+    {
+      "id": "birds_q001",
+      "type": "question",
+      "title": "Practice: Bird",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Bird'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Shelter.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Water.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Food.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Bird.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Bird'. A warm-blooded egg-laying vertebrate distinguished by feathers, wings, and a beak.\n\nHow to sign: 1. Use the dominant hand, forming a \"beak\" with the index finger and thumb. 2. Tap the finger and thumb together near the mouth once or twice."
+      }
+    }
+  ]
+}

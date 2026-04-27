@@ -1,0 +1,8 @@
+{
+  "title": "Feeling Blue",
+  "media": { "type": "image", "path": "img/picture_quiz/sad.png" },
+  "correctAnswer": "SAD",
+  "hints": "An emotion shown with a frown or tears",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

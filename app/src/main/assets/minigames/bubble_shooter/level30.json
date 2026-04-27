@@ -1,0 +1,20 @@
+{
+  "level": {
+    "title": "Falling Sand",
+    "description": "Dense top that thins as you clear down"
+  },
+  "layout": [
+    "5-5-5-5-5-5-5-",
+    "-5-4-4-4-4-4-5-",
+    "5-4-3-3-3-4-5-",
+    "-5-4-3-2-3-4-5-",
+    "5-4-3-2-3-4-5-",
+    "-5-4-3-3-3-4-5-",
+    "5-4-4-4-4-4-5-",
+    "-0-5-5-5-5-5-0-"
+  ],
+  "ballTypes": [2, 3, 4, 5],
+  "ballLetters": { "2": "T", "3": "U", "4": "V", "5": "W" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

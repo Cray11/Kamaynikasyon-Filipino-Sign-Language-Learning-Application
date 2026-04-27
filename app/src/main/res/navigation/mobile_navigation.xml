@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.kamaynikasyon.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_dictionary"
+        android:name="com.example.kamaynikasyon.features.dictionary.fragments.DictionaryFragment"
+        android:label="@string/title_dictionary"
+        tools:layout="@layout/fragment_dictionary">
+        <action
+            android:id="@+id/action_dictionary_to_words"
+            app:destination="@id/wordsFragment" />
+        <action
+            android:id="@+id/action_dictionary_to_searchResults"
+            app:destination="@id/searchResultsFragment" />
+        <action
+            android:id="@+id/action_dictionary_to_wordDetail"
+            app:destination="@id/wordDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/wordsFragment"
+        android:name="com.example.kamaynikasyon.features.dictionary.fragments.WordsFragment"
+        android:label="Words">
+        <argument
+            android:name="categoryId"
+            app:argType="string" />
+        <argument
+            android:name="categoryName"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_words_to_wordDetail"
+            app:destination="@id/wordDetailFragment" />
+        <action
+            android:id="@+id/action_words_to_searchResults"
+            app:destination="@id/searchResultsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/searchResultsFragment"
+        android:name="com.example.kamaynikasyon.features.dictionary.fragments.SearchResultsFragment"
+        android:label="Search Results">
+        <argument
+            android:name="searchQuery"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_searchResults_to_wordDetail"
+            app:destination="@id/wordDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/wordDetailFragment"
+        android:name="com.example.kamaynikasyon.features.dictionary.fragments.WordDetailFragment"
+        android:label="Word Detail">
+        <argument
+            android:name="wordId"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_wordDetail_to_wordDetail"
+            app:destination="@id/wordDetailFragment" />
+        <action
+            android:id="@+id/action_wordDetail_to_searchResults"
+            app:destination="@id/searchResultsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_minigames"
+        android:name="com.example.kamaynikasyon.MinigamesFragment"
+        android:label="@string/title_minigames"
+        tools:layout="@layout/fragment_minigames" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.kamaynikasyon.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+
+</navigation>

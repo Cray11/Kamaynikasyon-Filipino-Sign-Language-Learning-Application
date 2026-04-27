@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipToPadding="false"
+    android:clipChildren="false"
+    android:padding="6dp">
+
+    <!-- Card containing level number -->
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/card_level"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:clickable="true"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardCornerRadius="24dp"
+        app:cardUseCompatPadding="false"
+        android:elevation="4dp"
+        app:strokeWidth="4dp"
+        app:strokeColor="@color/white"
+        app:cardBackgroundColor="@color/background_white"
+        app:rippleColor="@color/icPressed"
+        android:clipToPadding="false"
+        android:clipChildren="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="16dp"
+            android:paddingBottom="28dp">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="6dp"
+                android:foregroundGravity="center">
+
+                <TextView
+                    android:id="@+id/text_level_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1"
+                    android:textSize="32sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white"
+                    android:gravity="center" />
+
+                <ImageView
+                    android:id="@+id/iv_lock"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:src="@drawable/img_lock"
+                    android:contentDescription="Locked level"
+                    android:visibility="gone" />
+
+            </FrameLayout>
+
+            <!-- spacer to keep visual balance; stars are rendered as overlay below -->
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="8dp" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <!-- Stars are siblings of the card so they can overlap the card edge without being clipped -->
+    <LinearLayout
+        android:id="@+id/ll_stars"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal|bottom"
+        android:translationY="2dp"
+        android:elevation="8dp"
+        android:translationZ="8dp"
+        android:clipToPadding="false"
+        android:clipChildren="false">
+
+        <ImageView
+            android:id="@+id/iv_star_1"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:src="@drawable/img_emptystar"
+            android:contentDescription="star1"
+            android:layout_marginEnd="6dp"
+            android:translationY="0dp" />
+
+        <ImageView
+            android:id="@+id/iv_star_2"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@drawable/img_emptystar"
+            android:contentDescription="star2"
+            android:layout_marginEnd="6dp"
+            android:translationY="-6dp" />
+
+        <ImageView
+            android:id="@+id/iv_star_3"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:src="@drawable/img_emptystar"
+            android:contentDescription="star3"
+            android:translationY="0dp" />
+
+    </LinearLayout>
+
+</FrameLayout>
+
+

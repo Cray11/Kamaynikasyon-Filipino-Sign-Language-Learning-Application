@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Offset Ladder",
+    "description": "Every row shifts to test bank shots"
+  },
+  "layout": [
+    "0-1-1-1-1-1-0-",
+    "-1-0-2-2-2-0-1-",
+    "0-3-3-0-3-3-0-",
+    "-2-0-4-4-4-0-2-",
+    "0-5-5-5-5-5-0-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": { "1": "X", "2": "Y", "3": "Z", "4": "A", "5": "B" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

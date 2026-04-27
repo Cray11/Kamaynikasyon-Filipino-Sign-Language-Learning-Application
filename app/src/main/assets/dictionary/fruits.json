@@ -1,0 +1,125 @@
+{
+  "category": "Fruits",
+  "words": [
+    {
+      "id": "fruits_001",
+      "name": "Apple",
+      "description": "A round fruit with firm, white flesh and skin.\nHow to sign:\n1. Use the dominant hand in the 'X' handshape (index finger bent).\n2. Place the knuckle of the index finger on the cheek.\n3. Twist the hand once or twice.",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant hand in the 'X' handshape (index finger bent). 2. Place the knuckle of the index finger on the cheek. 3. Twist the hand once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Apple.mp4"
+      }
+    },
+    {
+      "id": "fruits_002",
+      "name": "Banana",
+      "description": "A long, curved fruit with a yellow peel.\nHow to sign:\n1. Use the dominant '1' handshape.\n2. Pull the index finger down on the non-dominant index finger (simulating peeling a banana).",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant '1' handshape. 2. Pull the index finger down on the non-dominant index finger (simulating peeling a banana).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Banana.mp4"
+      }
+    },
+    {
+      "id": "fruits_003",
+      "name": "Orange",
+      "description": "A round, juicy citrus fruit.\nHow to sign:\n1. Use the dominant hand in the 'C' handshape.\n2. Squeeze the hand twice in front of the mouth.",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant hand in the 'C' handshape. 2. Squeeze the hand twice in front of the mouth.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Orange.mp4"
+      }
+    },
+    {
+      "id": "fruits_004",
+      "name": "Grapes",
+      "description": "A small, round, juicy fruit.\nHow to sign:\n1. Use the dominant '5' handshape, fingers wiggling.\n2. Start at the elbow and move the hand down the non-dominant arm (simulating a cluster).",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant '5' handshape, fingers wiggling. 2. Start at the elbow and move the hand down the non-dominant arm (simulating a cluster).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Grapes.mp4"
+      }
+    },
+    {
+      "id": "fruits_005",
+      "name": "Strawberry",
+      "description": "A red, juicy fruit with seeds on the surface.\nHow to sign:\n1. Place the dominant 'R' shape on the chin.\n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit.",
+      "category": "Fruits",
+      "howToSign": "1. Place the dominant 'R' shape on the chin. \n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Strawberry.mp4"
+      }
+    },
+    {
+      "id": "fruits_006",
+      "name": "Watermelon",
+      "description": "A large, round fruit with a hard green rind and sweet, red, pulpy flesh.\nHow to sign:\n1. Close your non-dominant hand and flick it by the dominant hand.",
+      "category": "Fruits",
+      "howToSign": "1. Close your non-dominant hand and flick it by the dominant hand.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Watermelon.mp4"
+      }
+    },
+    {
+      "id": "fruits_007",
+      "name": "Mango",
+      "description": "A fleshy, oval, yellowish-red tropical fruit.\nHow to sign:\n1. Use the dominant 'M' handshape to scoop the flat palm of the non-dominant hand.",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant 'M' handshape to scoop the flat palm of the non-dominant hand.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Mango.mp4"
+      }
+    },
+    {
+      "id": "fruits_008",
+      "name": "Pineapple",
+      "description": "A large, juicy tropical fruit with spiky leaves.\nHow to sign:\n1. Use the dominant 'P' handshape and move it up the face in an arc.",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant 'P' handshape and move it up the face in an arc.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Pineapple.mp4"
+      }
+    },
+    {
+      "id": "fruits_009",
+      "name": "Peach",
+      "description": "A round fruit with fuzzy skin and a large stone.\nHow to sign:\n1. Use the dominant 'P' handshape and touch it to the cheeks.\n2. Twist the 'P' handshape back and forth.",
+      "category": "Fruits",
+      "howToSign": "1. Use the dominant 'P' handshape and touch it to the cheeks.\n2. Twist the 'P' handshape back and forth.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Peach.mp4"
+      }
+    },
+    {
+      "id": "fruits_010",
+      "name": "Cherry",
+      "description": "A small, round, red fruit with a stone.\nHow to sign:\n1. Sign the 'Red Color' sign by placing the tip of the index finger on the chin.\n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit in a stem.",
+      "category": "Fruits",
+      "howToSign": "1. Sign the 'Red Color' sign by placing the tip of the index finger on the chin. \n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit in a stem.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Cherry.mp4"
+      }
+    },
+    {
+      "id": "fruits_011",
+      "name": "Fruits",
+      "description": "The edible reproductive body of a seed plant, typically sweet and fleshy.",
+      "category": "Fruits",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Fruits.mp4"
+      }
+    }
+  ]
+}

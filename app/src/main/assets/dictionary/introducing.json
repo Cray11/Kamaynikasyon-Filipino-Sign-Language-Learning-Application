@@ -1,0 +1,85 @@
+{
+  "category": "Introducing",
+  "words": [
+    {
+      "id": "intro_001",
+      "name": "Address",
+      "description": "Used to communicate or ask about where someone lives or their place of residence. Example quiz prompt: \"Which video shows the sign for 'Address'?\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Address.mp4"
+      }
+    },
+    {
+      "id": "intro_002",
+      "name": "Age",
+      "description": "Used to communicate or ask about how old someone is. Example quiz prompt: \"Pick the sign for 'Age'—how many birthdays have you had?\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Age.mp4"
+      }
+    },
+    {
+      "id": "intro_003",
+      "name": "Birthday",
+      "description": "Used to communicate or ask about the date when someone was born. Example quiz prompt: \"Which one shows the sign for 'Birthday'?\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Birthday.mp4"
+      }
+    },
+    {
+      "id": "intro_004",
+      "name": "Birthplace",
+      "description": "Used to communicate or ask about where someone was born. Example quiz prompt: \"Choose the sign for 'Birthplace'—where were you born?\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Birthplace.mp4"
+      }
+    },
+    {
+      "id": "intro_005",
+      "name": "Family",
+      "description": "Used to communicate or ask about one's family members and relationships. Example quiz prompt: \"Which video shows the sign for 'Family'?\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Family.mp4"
+      }
+    },
+    {
+      "id": "intro_006",
+      "name": "Filipino",
+      "description": "Used to identify or ask if someone is Filipino. Example quiz prompt: \"Pick the sign for 'Filipino'—proud Pinoy!\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Filipino.mp4"
+      }
+    },
+    {
+      "id": "intro_007",
+      "name": "Nation",
+      "description": "Used to communicate or ask about someone's nationality or country of origin. Example quiz prompt: \"Which one shows the sign for 'Nation'?\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Nation.mp4"
+      }
+    },
+    {
+      "id": "intro_008",
+      "name": "Work",
+      "description": "Used to communicate or ask about someone's occupation or profession. Example quiz prompt: \"Choose the sign for 'Work'—busy hands!\"",
+      "category": "Introducing",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Work.mp4"
+      }
+    }
+  ]
+}

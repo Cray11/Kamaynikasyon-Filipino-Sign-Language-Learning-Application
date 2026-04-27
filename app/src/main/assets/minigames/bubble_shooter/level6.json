@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Hexagonal Maze",
+    "description": "Complex hexagonal pattern with strategic gaps"
+  },
+  "layout": [
+    "1-2-3-1-2-3-1-",
+    "-4-5-1-4-5-1-4",
+    "2-3-4-2-3-4-2-",
+    "-1-5-3-1-5-3-1",
+    "4-2-1-4-2-1-4-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "W", "2": "X", "3": "Y", "4": "Z", "5": "A"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

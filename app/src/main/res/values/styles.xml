@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- ============================================
+         BUTTON STYLES
+         ============================================ -->
+    
+    <!-- Primary Button Style -->
+    <style name="Widget.Kamaynikasyon.Button.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary_color</item>
+        <item name="android:textColor">@color/background_white</item>
+        <item name="cornerRadius">@dimen/button_corner_radius</item>
+        <item name="android:textSize">@dimen/text_size_button</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:minHeight">@dimen/button_min_height</item>
+        <item name="rippleColor">@color/ripple_primary</item>
+    </style>
+    
+    <!-- Secondary Button Style (Outlined) -->
+    <style name="Widget.Kamaynikasyon.Button.Secondary" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="backgroundTint">@color/background_white</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="strokeColor">@color/gray_300</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="cornerRadius">@dimen/button_corner_radius</item>
+        <item name="android:textSize">@dimen/text_size_button</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:minHeight">@dimen/button_min_height</item>
+        <item name="rippleColor">@color/ripple_secondary</item>
+    </style>
+    
+    <!-- Text Button Style -->
+    <style name="Widget.Kamaynikasyon.Button.Text" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:textSize">@dimen/text_size_button</item>
+        <item name="android:textStyle">bold</item>
+        <item name="rippleColor">@color/ripple_primary</item>
+    </style>
+    
+    <!-- ============================================
+         TEXT STYLES (Typography Hierarchy)
+         ============================================ -->
+    
+    <!-- Base Text Appearance Style -->
+    <style name="TextAppearance.Kamaynikasyon" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">@dimen/text_size_body1</item>
+    </style>
+    
+    <!-- Headline 1 - Large titles -->
+    <style name="TextAppearance.Kamaynikasyon.Headline1" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_headline1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    
+    <!-- Headline 2 - Section titles -->
+    <style name="TextAppearance.Kamaynikasyon.Headline2" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_headline2</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    
+    <!-- Headline 3 - Subsection titles -->
+    <style name="TextAppearance.Kamaynikasyon.Headline3" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_headline3</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    
+    <!-- Body 1 - Primary body text -->
+    <style name="TextAppearance.Kamaynikasyon.Body1" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_body1</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    
+    <!-- Body 2 - Secondary body text -->
+    <style name="TextAppearance.Kamaynikasyon.Body2" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_body2</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    
+    <!-- Caption - Small helper text -->
+    <style name="TextAppearance.Kamaynikasyon.Caption" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_caption</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    
+    <!-- Overline - Labels and tags -->
+    <style name="TextAppearance.Kamaynikasyon.Overline" parent="TextAppearance.Kamaynikasyon">
+        <item name="android:textSize">@dimen/text_size_overline</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:letterSpacing">0.1</item>
+    </style>
+    
+    <!-- Chip Text Appearance with Fredoka Font -->
+    <style name="TextAppearance.Kamaynikasyon.Chip" parent="TextAppearance.MaterialComponents.Chip">
+        <item name="android:fontFamily">@font/fredoka_family</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    
+    <!-- ============================================
+         CARD STYLES
+         ============================================ -->
+    
+    <!-- Base Widget Style -->
+    <style name="Widget.Kamaynikasyon" parent="Widget.AppCompat.TextView">
+        <item name="android:padding">@dimen/padding_standard</item>
+    </style>
+    
+    <!-- Standard Card Style -->
+    <style name="Widget.Kamaynikasyon.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardElevation">0dp</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardBackgroundColor">@color/background_white</item>
+        <item name="strokeWidth">3dp</item>
+        <item name="strokeColor">@color/gray_300</item>
+        <item name="rippleColor">@color/ripple_card</item>
+    </style>
+    
+    <!-- Primary Card Style (with primary color stroke) -->
+    <style name="Widget.Kamaynikasyon.Card.Primary" parent="Widget.Kamaynikasyon.Card">
+        <item name="strokeColor">@color/primary_color</item>
+        <item name="strokeWidth">5dp</item>
+    </style>
+    
+    <!-- Secondary Card Style (with secondary color stroke) -->
+    <style name="Widget.Kamaynikasyon.Card.Secondary" parent="Widget.Kamaynikasyon.Card">
+        <item name="strokeColor">@color/secondary_color</item>
+        <item name="strokeWidth">5dp</item>
+    </style>
+    
+    <!-- ============================================
+         CLICKABLE VIEW STYLES
+         ============================================ -->
+    
+    <!-- Clickable View with Ripple -->
+    <style name="Widget.Kamaynikasyon.Clickable">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    
+    <!-- Clickable View with Borderless Ripple -->
+    <style name="Widget.Kamaynikasyon.Clickable.Borderless">
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    
+</resources>
+

@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Diamond Drift",
+    "description": "Diamond core with empty corners"
+  },
+  "layout": [
+    "0-0-5-5-5-0-0-",
+    "-0-5-4-4-4-5-0-",
+    "5-4-3-3-3-4-5-",
+    "-0-5-4-4-4-5-0-",
+    "0-0-5-5-5-0-0-"
+  ],
+  "ballTypes": [3, 4, 5],
+  "ballLetters": { "3": "F", "4": "G", "5": "H" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

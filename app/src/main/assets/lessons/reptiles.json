@@ -1,0 +1,204 @@
+{
+  "id": "l_reptiles",
+  "title": "Reptiles",
+  "description": "Learn reptiles in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "reptiles_intro",
+      "type": "text",
+      "title": "Welcome to Reptiles",
+      "content": "In this lesson, you'll learn how to sign reptiles in Filipino Sign Language (FSL). You'll learn 5 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Snake.mp4"
+      }
+    },
+    {
+      "id": "reptiles_001",
+      "type": "text",
+      "title": "How to Sign 'Snake'",
+      "content": "Learn how to sign 'Snake'. A long, legless reptile that moves by gliding on its belly. \n\nHow to sign:\n1. Use the dominant hand in the 'bent V' handshape (middle and index bent). 2. Move the hand forward in a serpentine (wiggling) motion.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Snake.mp4"
+      }
+    },
+    {
+      "id": "reptiles_002",
+      "type": "text",
+      "title": "How to Sign 'Lizard'",
+      "content": "Learn how to sign 'Lizard'. A reptile typically having a long body, four legs, and a tapering tail. \n\nHow to sign:\n1. Use the dominant hand in the 'L' handshape. 2. Move the hand in a crawling motion up the non-dominant forearm.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Lizard.mp4"
+      }
+    },
+    {
+      "id": "reptiles_003",
+      "type": "text",
+      "title": "How to Sign 'Turtle'",
+      "content": "Learn how to sign 'Turtle'. A slow-moving reptile encased in a shell. \n\nHow to sign:\n1. Use the non-dominant hand as a 'dome' (shell). 2. Use the dominant 'A' hand (head/neck). 3. Tuck the 'A' hand under the dome, then move it forward and out.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Turtle.mp4"
+      }
+    },
+    {
+      "id": "reptiles_004",
+      "type": "text",
+      "title": "How to Sign 'Crocodile'",
+      "content": "Learn how to sign 'Crocodile'. A large predatory semiaquatic reptile with a long jaw and powerful tail. \n\nHow to sign:\n1. Use both hands in the '5' handshape, held flat and stacked at the wrist. 2. Open and close the hands like a large jaw.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Crocodile.mp4"
+      }
+    },
+    {
+      "id": "reptiles_005",
+      "type": "text",
+      "title": "How to Sign 'Alligator'",
+      "content": "Learn how to sign 'Alligator'. A large reptile with a shorter, blunter snout than a crocodile. \n\nHow to sign:\n1. Same sign as Crocodile.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Alligator.mp4"
+      }
+    },
+    {
+      "id": "reptiles_q001",
+      "type": "question",
+      "title": "Practice: Snake",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Snake'?"
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Crocodile.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Turtle.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Snake.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Lizard.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Snake'. A long, legless reptile that moves by gliding on its belly.\n\nHow to sign: 1. Use the dominant hand in the 'bent V' handshape (middle and index bent). 2. Move the hand forward in a serpentine (wiggling) motion."
+      }
+    },
+    {
+      "id": "reptiles_q003",
+      "type": "question",
+      "title": "Practice: Turtle",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Turtle.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Snake"
+          },
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Alligator"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Turtle"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Lizard"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Turtle'. A slow-moving reptile encased in a shell.\n\nHow to sign: 1. Use the non-dominant hand as a 'dome' (shell). 2. Use the dominant 'A' hand (head/neck). 3. Tuck the 'A' hand under the dome, then move it forward and out."
+      }
+    },
+    {
+      "id": "reptiles_q005",
+      "type": "question",
+      "title": "Practice: Alligator",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Alligator'?"
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Lizard.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Turtle.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Crocodile.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 2/Alligator.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Alligator'. A large reptile with a shorter, blunter snout than a crocodile.\n\nHow to sign: 1. Same sign as Crocodile."
+      }
+    }
+  ]
+}

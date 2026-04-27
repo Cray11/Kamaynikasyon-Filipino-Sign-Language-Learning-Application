@@ -1,0 +1,276 @@
+{
+  "category": "Alphabet",
+  "words": [
+    {
+      "id": "alphabet_000",
+      "name": "Alphabet",
+      "description": "The complete sign language alphabet from A to Z.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/alphabet.png"
+      }
+    },
+    {
+      "id": "alphabet_001",
+      "name": "A",
+      "description": "The first letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/A.png"
+      }
+    },
+    {
+      "id": "alphabet_002",
+      "name": "B",
+      "description": "The second letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/B.png"
+      }
+    },
+    {
+      "id": "alphabet_003",
+      "name": "C",
+      "description": "The third letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/C.png"
+      }
+    },
+    {
+      "id": "alphabet_004",
+      "name": "D",
+      "description": "The fourth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/D.png"
+      }
+    },
+    {
+      "id": "alphabet_005",
+      "name": "E",
+      "description": "The fifth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/E.png"
+      }
+    },
+    {
+      "id": "alphabet_006",
+      "name": "F",
+      "description": "The sixth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/F.png"
+      }
+    },
+    {
+      "id": "alphabet_007",
+      "name": "G",
+      "description": "The seventh letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/G.png"
+      }
+    },
+    {
+      "id": "alphabet_008",
+      "name": "H",
+      "description": "The eighth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/H.png"
+      }
+    },
+    {
+      "id": "alphabet_009",
+      "name": "I",
+      "description": "The ninth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/I.png"
+      }
+    },
+    {
+      "id": "alphabet_010",
+      "name": "J",
+      "description": "The tenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/J.png"
+      }
+    },
+    {
+      "id": "alphabet_011",
+      "name": "K",
+      "description": "The eleventh letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/K.png"
+      }
+    },
+    {
+      "id": "alphabet_012",
+      "name": "L",
+      "description": "The twelfth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/L.png"
+      }
+    },
+    {
+      "id": "alphabet_013",
+      "name": "M",
+      "description": "The thirteenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/M.png"
+      }
+    },
+    {
+      "id": "alphabet_014",
+      "name": "N",
+      "description": "The fourteenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/N.png"
+      }
+    },
+    {
+      "id": "alphabet_015",
+      "name": "O",
+      "description": "The fifteenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/O.png"
+      }
+    },
+    {
+      "id": "alphabet_016",
+      "name": "P",
+      "description": "The sixteenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/P.png"
+      }
+    },
+    {
+      "id": "alphabet_017",
+      "name": "Q",
+      "description": "The seventeenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/Q.png"
+      }
+    },
+    {
+      "id": "alphabet_018",
+      "name": "R",
+      "description": "The eighteenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/R.png"
+      }
+    },
+    {
+      "id": "alphabet_019",
+      "name": "S",
+      "description": "The nineteenth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/S.png"
+      }
+    },
+    {
+      "id": "alphabet_020",
+      "name": "T",
+      "description": "The twentieth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/T.png"
+      }
+    },
+    {
+      "id": "alphabet_021",
+      "name": "U",
+      "description": "The twenty-first letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/U.png"
+      }
+    },
+    {
+      "id": "alphabet_022",
+      "name": "V",
+      "description": "The twenty-second letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/V.png"
+      }
+    },
+    {
+      "id": "alphabet_023",
+      "name": "W",
+      "description": "The twenty-third letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/W.png"
+      }
+    },
+    {
+      "id": "alphabet_024",
+      "name": "X",
+      "description": "The twenty-fourth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/X.png"
+      }
+    },
+    {
+      "id": "alphabet_025",
+      "name": "Y",
+      "description": "The twenty-fifth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/Y.png"
+      }
+    },
+    {
+      "id": "alphabet_026",
+      "name": "Z",
+      "description": "The twenty-sixth letter of the alphabet in sign language.",
+      "category": "Alphabet",
+      "media": {
+        "type": "image",
+        "path": "img/alphabet/Z.png"
+      }
+    }
+  ]
+}
+

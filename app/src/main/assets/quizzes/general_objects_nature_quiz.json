@@ -1,0 +1,85 @@
+{
+  "id": "quiz_general_objects_nature",
+  "title": "General Objects/Nature Quiz",
+  "description": "Test your knowledge of general objects/nature in sign language",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": "general_objects_nature_q001_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Building'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Shelter.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/building.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sign for 'Building' is shown in the correct video. 1. Use the dominant '5' handshape, palm down, and move it up from the wrist. 2. Use both hands in 'B' handshapes and move them vertically, tracing the shape of a building."
+    },
+    {
+      "id": "general_objects_nature_q002",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Fruits/Trees.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Food"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Shelter"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Water"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Tree"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "This sign means 'Tree'. A woody perennial plant, typically having a single stem or trunk."
+    }
+  ]
+}

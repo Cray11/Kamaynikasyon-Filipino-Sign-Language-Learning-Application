@@ -1,0 +1,8 @@
+{
+  "title": "Feeling Mad",
+  "media": { "type": "image", "path": "img/picture_quiz/angry.png" },
+  "correctAnswer": "ANGRY",
+  "hints": "An emotion shown with a scowl or clenched teeth",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

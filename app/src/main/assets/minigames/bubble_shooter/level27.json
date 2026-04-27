@@ -1,0 +1,18 @@
+{
+  "level": {
+    "title": "Bridge Gaps",
+    "description": "Floating bridges with dangling singles"
+  },
+  "layout": [
+    "0-0-4-4-4-0-0-",
+    "-0-4-0-0-0-4-0-",
+    "4-0-0-5-0-0-4-",
+    "-0-4-0-0-0-4-0-",
+    "0-0-4-4-4-0-0-",
+    "-0-0-0-4-0-0-0-"
+  ],
+  "ballTypes": [4, 5],
+  "ballLetters": { "4": "L", "5": "M" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

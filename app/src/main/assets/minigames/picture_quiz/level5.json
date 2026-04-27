@@ -1,0 +1,12 @@
+{
+  "title": "Animal Signs 2",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/dog.png"
+  },
+  "correctAnswer": "DOG",
+  "hints": "This sign represents a domestic pet",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

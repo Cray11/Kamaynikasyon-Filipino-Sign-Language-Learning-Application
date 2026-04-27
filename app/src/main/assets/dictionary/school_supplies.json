@@ -1,0 +1,137 @@
+{
+  "category": "School/Office Supplies",
+  "words": [
+    {
+      "id": "school_office_supplies_001",
+      "name": "Pencils",
+      "description": "An implement for writing or drawing with graphite.\nHow to sign:\n1. Use the dominant hand in the 'P' handshape (index and middle fingers extended).\n2. Do a writting gesture in air.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant hand in the 'P' handshape (index and middle fingers extended). 2. Do a writting gesture in air",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Pencils.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_002",
+      "name": "Pens",
+      "description": "An implement for writing or drawing with ink.\nHow to sign:\n1. Use the dominant hand to do the handwritting gesture.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant hand to do the handwritting gesture",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Pens.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_003",
+      "name": "Notebooks",
+      "description": "A book of blank paper for writing notes.\nHow to sign:\n1. Make the letter 'N' Handshape.\n2. Simulate the opening of a notebook using the 'N' Handshape.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Make the letter 'N' Handshape\n2. Simulate the opening of a notebook using the 'N' Handshape",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Notebooks.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_004",
+      "name": "Folders",
+      "description": "A folding cover used to hold loose papers.\nHow to sign:\n1. Make the letter 'F' Handshape.\n2. Simulate the opening of a folder using the 'F' Handshape.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Make the letter 'F' Handshape\n2. Simulate the opening of a folder using the 'F' Handshape",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Folders.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_005",
+      "name": "Chalk",
+      "description": "A soft, porous limestone used for writing or drawing.\nHow to sign:\n1. Use the dominant 'X' handshape (as a piece of chalk).\n2. Do the writting gesture in air.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant 'X' handshape (as a piece of chalk). \n2. Do the writting gesture in air",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Chalk.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_006",
+      "name": "Erasers",
+      "description": "A piece of soft rubber or plastic used to remove marks.\nHow to sign:\n1. Use the dominant 'E' handshape.\n2. Move/Rub the dominant hand across the non-dominant flat palm, simulating erasing.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant 'E' handshape. \n2. Move/Rub the dominant hand across the non-dominant flat palm, simulating erasing.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Erasers.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_007",
+      "name": "Rulers",
+      "description": "A straight strip of material used for drawing straight lines or measuring.\nHow to sign:\n1. Use the dominant 'R' handshape.\n2. Touch back forearm of the non-dominant hand.\n3. Slide the dominant 'R' hadshape to simulate measuring.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant 'R' handshape \n2. Touch back forearm of the non-dominant hand.\n3. Slide the dominant 'R' hadshape to simulate measuring.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Rulers.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_008",
+      "name": "Glue sticks",
+      "description": "A solid adhesive in a twist-up tube.\nHow to sign:\n1. Use '3' and '5' finger and create a pinching gesture on both hands to simulate glue/sticky.\n2. On both hands use '4' and '5' finger and create a visulization of a stick.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use '3' and '5' finger and create a pinching gesture on both hands to simulate glue/sticky\n2. On both hands use '4' and '5' finger and create a visulization of a stick.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Gluesticks.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_009",
+      "name": "Scissors",
+      "description": "A cutting instrument consisting of two pivoted blades.\nHow to sign:\n1. Use the dominant hand in the 'V' handshape, palm facing out.\n2. Open and close the fingers like scissors cutting in the air.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant hand in the 'V' handshape, palm facing out. 2. Open and close the fingers like scissors cutting in the air.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Scissors.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_010",
+      "name": "Backpack",
+      "description": "A bag with shoulder straps, carried on the back.\nHow to sign:\n1. Use the dominant hand to touch your shoulder.\n2. Make a curved using the non-dominant hand from the dominant hand to elbow to create a letter 'B'.\n3. Do the wearing backpack gesture.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Use the dominant hand to touch your shoulder\n2. Make a curved using the non-dominant hand from the dominant hand to elbow to  create a letter 'B'\n3. Do the wearing backpack gesture.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Backpack.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_011",
+      "name": "Lunch box",
+      "description": "A container used to hold a packed lunch.\nHow to sign:\n1. Sign LUNCH: Dominant 'L' hand on the chin.\n2. Sign BOX: Two 'B' hands form a square.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Sign LUNCH: Dominant 'L' hand on the chin. 2. Sign BOX: Two 'B' hands form a square.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Lunchbox.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_012",
+      "name": "Water bottle",
+      "description": "A container used to hold water for drinking.\nHow to sign:\n1. Sign WATER ('W' hand on chin).\n2. Sign BOTTLE: Dominant 'C' hand moves up from the non-dominant palm.",
+      "category": "School/Office Supplies",
+      "howToSign": "1. Sign WATER ('W' hand on chin). 2. Sign BOTTLE: Dominant 'C' hand moves up from the non-dominant palm.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Water Bottle.mp4"
+      }
+    }
+  ]
+}

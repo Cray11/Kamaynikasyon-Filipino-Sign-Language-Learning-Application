@@ -1,0 +1,15 @@
+{
+  "level": {
+    "title": "Precision Master",
+    "description": "Sparse pattern requiring precision and strategy"
+  },
+  "layout": [
+    "0-0-1-1-1-0-0-",
+    "-0-2-3-3-2-0-0",
+    "0-4-4-3-4-4-0-",
+    "-0-2-1-1-2-0-0"
+  ],
+  "ballTypes": [1, 2, 3, 4],
+  "ballLetters": {"1": "S", "2": "T", "3": "U", "4": "V"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Colors 3",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/yellow.png"
+  },
+  "correctAnswer": "YELLOW",
+  "hints": "This is the color of sun and flowers",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

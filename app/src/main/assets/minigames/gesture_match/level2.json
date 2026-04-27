@@ -1,0 +1,17 @@
+{
+  "title": "Introducing Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Introducing/Birthday.mp4" },
+      "answer": "Birthday"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Introducing/Birthplace.mp4" },
+      "answer": "Birthplace"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Introducing/Age.mp4" },
+      "answer": "Age"
+    }
+  ]
+}

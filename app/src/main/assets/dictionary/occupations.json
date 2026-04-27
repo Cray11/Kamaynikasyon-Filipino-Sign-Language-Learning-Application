@@ -1,0 +1,16 @@
+{
+  "category": "Occupations",
+  "words": [
+    {
+      "id": "occupations_001",
+      "name": "Student",
+      "description": "A person who is studying at a school or college.\nHow to sign:\n1. Sign LEARN: dominant '5' hand takes knowledge from the non-dominant palm and moves it to the forehead.\n2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "category": "Occupations",
+      "howToSign": "1. Sign LEARN: dominant '5' hand takes knowledge from the non-dominant palm and moves it to the forehead. 2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    }
+  ]
+}

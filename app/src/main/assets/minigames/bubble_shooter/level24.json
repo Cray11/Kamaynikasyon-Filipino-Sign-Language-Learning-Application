@@ -1,0 +1,19 @@
+{
+  "level": {
+    "title": "Window Frame",
+    "description": "Hollow middle to clear with bounces"
+  },
+  "layout": [
+    "1-1-1-1-1-1-1-",
+    "-1-0-0-0-0-0-1-",
+    "1-0-2-2-2-0-1-",
+    "-1-0-2-0-2-0-1-",
+    "1-0-2-2-2-0-1-",
+    "-1-0-0-0-0-0-1-",
+    "1-1-1-1-1-1-1-"
+  ],
+  "ballTypes": [1, 2],
+  "ballLetters": { "1": "F", "2": "G" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

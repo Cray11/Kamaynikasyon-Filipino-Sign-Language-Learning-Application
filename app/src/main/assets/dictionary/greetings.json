@@ -1,0 +1,95 @@
+{
+  "category": "Greetings",
+  "words": [
+    {
+      "id": "greeting_001",
+      "name": "Hello",
+      "description": "A common greeting used to initiate conversation or acknowledge someone's presence.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/Hello.mp4"
+      }
+    },
+    {
+      "id": "greeting_002",
+      "name": "Hi",
+      "description": "An informal greeting, often used among friends or in casual situations.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/Hi(1).mp4"
+      }
+    },
+    {
+      "id": "greeting_003",
+      "name": "Good Morning",
+      "description": "A greeting used in the morning hours, typically from dawn until noon.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/GoodMorning.mp4"
+      }
+    },
+    {
+      "id": "greeting_004",
+      "name": "Good Afternoon",
+      "description": "A greeting used in the afternoon hours, typically from noon until evening.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/GoodAfternoon.mp4"
+      }
+    },
+    {
+      "id": "greeting_005",
+      "name": "Good Evening",
+      "description": "A greeting used in the evening hours, typically after sunset.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/GoodEvening.mp4"
+      }
+    },
+    {
+      "id": "greeting_006",
+      "name": "Good Night",
+      "description": "A farewell greeting used when parting at night or before going to bed.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/GoodNight.mp4"
+      }
+    },
+    {
+      "id": "greeting_007",
+      "name": "Good Noon",
+      "description": "A greeting specifically used during the noon hour.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/GoodNoon.mp4"
+      }
+    },
+    {
+      "id": "greeting_008",
+      "name": "How Are You",
+      "description": "A friendly greeting used to inquire about someone's well-being.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/HowAreYou.mp4"
+      }
+    },
+    {
+      "id": "greeting_009",
+      "name": "Not Much, You",
+      "description": "A casual response to 'How are you?' indicating that things are fine or nothing special is happening.",
+      "category": "Greetings",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Greetings/NotMuchYou.mp4"
+      }
+    }
+  ]
+}

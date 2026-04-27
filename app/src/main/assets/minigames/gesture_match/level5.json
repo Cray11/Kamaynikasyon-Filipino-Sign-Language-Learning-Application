@@ -1,0 +1,26 @@
+{
+  "title": "Fruits Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Apple.mp4" },
+      "answer": "Apple"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Banana.mp4" },
+      "answer": "Banana"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Orange.mp4" },
+      "answer": "Orange"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Grapes.mp4" },
+      "answer": "Grapes"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Mango.mp4" },
+      "answer": "Mango"
+    }
+  ]
+}
+

@@ -1,0 +1,18 @@
+{
+  "level": {
+    "title": "Arrow Point",
+    "description": "An arrow shape guarding the center"
+  },
+  "layout": [
+    "0-0-7-7-7-0-0-",
+    "-0-7-0-6-0-7-0-",
+    "7-0-6-5-6-0-7-",
+    "-0-7-0-6-0-7-0-",
+    "0-0-7-7-7-0-0-",
+    "-0-0-0-7-0-0-0-"
+  ],
+  "ballTypes": [5, 6, 7],
+  "ballLetters": { "5": "C", "6": "D", "7": "E" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

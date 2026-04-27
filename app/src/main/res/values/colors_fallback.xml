@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fallback aliases to ensure resources referenced in layouts are available -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="color_on_primary">#FFFFFFFF</color>
+    <color name="color_secondary">#FF03DAC5</color>
+    <color name="color_on_secondary">#FF000000</color>
+</resources>

@@ -1,0 +1,91 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // Helper function to check if user is admin
+    // CRITICAL: Admin document IDs MUST be stored in lowercase in Firestore
+    // Firebase Auth tokens should contain lowercase emails by default
+    // If you're getting permission denied, ensure:
+    // 1. The admin document ID in Firestore exactly matches request.auth.token.email
+    // 2. Both are in lowercase (Firebase Auth should provide lowercase by default)
+    // 3. The document exists in the admins collection
+    function isAdmin() {
+      return request.auth != null && 
+        request.auth.token.email != null &&
+        exists(/databases/$(database)/documents/admins/$(request.auth.token.email));
+    }
+    
+    // Helper to get normalized email (for debugging - note: Firestore rules don't support string manipulation)
+    // This is just a reference - actual normalization must happen when creating admin documents
+    function getAdminEmail() {
+      return request.auth.token.email;
+    }
+
+    // Allow authenticated users to read/write their own user data
+    match /users/{userId} {
+      // Users can read/write their own data
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      
+      // Admins can ONLY READ all users (for dashboard analytics)
+      // Note: Admins cannot write to other users' data
+      allow read: if isAdmin();
+    }
+    
+    // Allow authenticated users to read/write their progress
+    // Admins can read all users' progress (for dashboard analytics)
+    match /users/{userId}/progress_lessons/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    match /users/{userId}/progress_quizzes/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    match /users/{userId}/progress_daily_quizzes/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    match /users/{userId}/progress_bubble_shooter/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    match /users/{userId}/progress_picture_quiz/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    match /users/{userId}/progress_spelling_sequence/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    match /users/{userId}/progress_gesture_match/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    // Metadata subcollection - admins can read for sync tracking
+    match /users/{userId}/metadata/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      allow read: if isAdmin();
+    }
+    
+    // Admins collection - authenticated users can read to check if they're admin
+    match /admins/{adminEmail} {
+      allow read: if request.auth != null;
+      allow write: if false; // Only manually add admins via console
+    }
+    
+    // Admin logs - only admins can read, authenticated admins can write
+    match /admin_logs/{logId} {
+      allow read: if isAdmin();
+      allow write: if isAdmin();
+    }
+  }
+}
+

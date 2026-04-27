@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Scattered Pattern",
+    "description": "Sparse scattered bubbles test your aim"
+  },
+  "layout": [
+    "1-0-0-2-0-0-3-",
+    "-0-4-0-0-5-0-0",
+    "0-0-1-0-0-2-0-",
+    "-3-0-0-4-0-0-5",
+    "0-1-0-0-2-0-0-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "L", "2": "M", "3": "N", "4": "O", "5": "P"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

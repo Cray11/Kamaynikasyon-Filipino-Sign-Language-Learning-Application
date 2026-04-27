@@ -1,0 +1,26 @@
+{
+  "title": "Meals & School Supplies Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Meals/Breakfast.mp4" },
+      "answer": "Breakfast"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Meals/Dinner.mp4" },
+      "answer": "Dinner"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Meals/Snack.mp4" },
+      "answer": "Snack"
+    },
+    {
+      "media": { "type": "video", "path": "vid/School Supplies/Chalk.mp4" },
+      "answer": "Chalk"
+    },
+    {
+      "media": { "type": "video", "path": "vid/School Supplies/Scissors.mp4" },
+      "answer": "Scissors"
+    }
+  ]
+}
+

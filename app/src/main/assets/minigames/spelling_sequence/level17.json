@@ -1,0 +1,7 @@
+{
+  "title": "Study Buddy",
+  "correctAnswer": "TABLE",
+  "hints": "Spell TABLE",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

@@ -1,0 +1,324 @@
+{
+  "id": "l_basic_needs",
+  "title": "Basic Needs",
+  "description": "Learn basic needs in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "basic_needs_intro",
+      "type": "text",
+      "title": "Welcome to Basic Needs",
+      "content": "In this lesson, you'll learn how to sign basic needs in Filipino Sign Language (FSL). You'll learn 9 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Food.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_001",
+      "type": "text",
+      "title": "How to Sign 'Food'",
+      "content": "Learn how to sign 'Food'. Any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth. \n\nHow to sign:\n1. Use the dominant hand in the 'flat O' handshape (fingertips touching thumb). 2. Tap the fingertips to the mouth/chin area once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Food.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_002",
+      "type": "text",
+      "title": "How to Sign 'Water'",
+      "content": "Learn how to sign 'Water'. A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain. \n\nHow to sign:\n1. Use the dominant hand in the 'W' handshape. 2. Tap the three fingers on the chin once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Water.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_003",
+      "type": "text",
+      "title": "How to Sign 'Shelter'",
+      "content": "Learn how to sign 'Shelter'. A place giving temporary protection from bad weather or danger. \n\nHow to sign:\n1. Use both hands in the 'A' or 'S' handshape (fists), held vertically, palms facing each other. 2. Tap the wrists/forearms together. 3. Arc the hands slightly over the head.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Shelter.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_004",
+      "type": "text",
+      "title": "How to Sign 'Sleep'",
+      "content": "Learn how to sign 'Sleep'. A naturally recurring state of rest for the mind and body. \n\nHow to sign:\n1. Use the dominant hand in the '5' handshape (open) above the face. 2. Move the hand down, closing it into a 'flat O' handshape while touching the chin/cheek area.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Sleep.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_005",
+      "type": "text",
+      "title": "How to Sign 'Safety'",
+      "content": "Learn how to sign 'Safety'. The condition of being protected from or unlikely to cause danger, risk, or injury. \n\nHow to sign:\n1. Use both hands in the 'S' handshape (fists), dominant hand on top of non-dominant, arms crossed slightly. 2. Swing the fists outward and down in unison.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Safety.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_006",
+      "type": "text",
+      "title": "How to Sign 'Health care'",
+      "content": "Learn how to sign 'Health care'. The maintenance and improvement of health via the prevention, diagnosis, and treatment of illness, injury, and other physical and mental impairments. \n\nHow to sign:\n1. Sign HEALTH: Use both '5' hands. 2. Tap the dominant middle finger on the shoulder, then tap the non-dominant middle finger on the chest.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/HealthCare.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_007",
+      "type": "text",
+      "title": "How to Sign 'Clothing'",
+      "content": "Learn how to sign 'Clothing'. Items worn to cover the body. \n\nHow to sign:\n1. Use both hands in the '5' handshape (palms facing in). 2. Brush the hands down the sides of the chest/body repeatedly.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Clothing.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_008",
+      "type": "text",
+      "title": "How to Sign 'Urinate'",
+      "content": "Learn how to sign 'Urinate'. To excrete urine. \n\nHow to sign:\n1. Use the dominant hand in the 'U' handshape (index and middle fingers extended), palm facing down. 2. Move the hand forward from the crotch area.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/Urinate.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_009",
+      "type": "text",
+      "title": "How to Sign 'Comfort Room'",
+      "content": "Learn how to sign 'Comfort Room'. Euphemism for restroom or bathroom. \n\nHow to sign:\n1. Sign BATHROOM: Use the dominant hand in the 'T' handshape (thumb between index and middle fingers). 2. Shake the hand twice in space.",
+      "media": {
+        "type": "video",
+        "path": "vid/Basic Needs/ComfortRoom.mp4"
+      }
+    },
+    {
+      "id": "basic_needs_q001",
+      "type": "question",
+      "title": "Practice: Food",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Food'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Clothing.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Water.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Food.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Shelter.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Food'. Any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.\n\nHow to sign: 1. Use the dominant hand in the 'flat O' handshape (fingertips touching thumb). 2. Tap the fingertips to the mouth/chin area once or twice."
+      }
+    },
+    {
+      "id": "basic_needs_q003",
+      "type": "question",
+      "title": "Practice: Shelter",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Shelter.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Water"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Clothing"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Shelter"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Urinate"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Shelter'. A place giving temporary protection from bad weather or danger.\n\nHow to sign: 1. Use both hands in the 'A' or 'S' handshape (fists), held vertically, palms facing each other. 2. Tap the wrists/forearms together. 3. Arc the hands slightly over the head."
+      }
+    },
+    {
+      "id": "basic_needs_q005",
+      "type": "question",
+      "title": "Practice: Safety",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Safety.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Safety"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Urinate"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Comfort Room"
+          },
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Water"
+          }
+        ],
+        "correctAnswer": 0,
+        "explanation": "This sign means 'Safety'. The condition of being protected from or unlikely to cause danger, risk, or injury.\n\nHow to sign: 1. Use both hands in the 'S' handshape (fists), dominant hand on top of non-dominant, arms crossed slightly. 2. Swing the fists outward and down in unison."
+      }
+    },
+    {
+      "id": "basic_needs_q007",
+      "type": "question",
+      "title": "Practice: Clothing",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Clothing'?"
+        },
+        "options": [
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/ComfortRoom.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Sleep.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Safety.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Clothing.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Clothing'. Items worn to cover the body.\n\nHow to sign: 1. Use both hands in the '5' handshape (palms facing in). 2. Brush the hands down the sides of the chest/body repeatedly."
+      }
+    },
+    {
+      "id": "basic_needs_q009",
+      "type": "question",
+      "title": "Practice: Comfort Room",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/ComfortRoom.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Health care"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Water"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Comfort Room"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Shelter"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Comfort Room'. Euphemism for restroom or bathroom.\n\nHow to sign: 1. Sign BATHROOM: Use the dominant hand in the 'T' handshape (thumb between index and middle fingers). 2. Shake the hand twice in space."
+      }
+    }
+  ]
+}

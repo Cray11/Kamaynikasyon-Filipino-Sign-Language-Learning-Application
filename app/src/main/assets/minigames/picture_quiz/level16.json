@@ -1,0 +1,8 @@
+{
+  "title": "Cozy Home",
+  "media": { "type": "image", "path": "img/picture_quiz/house.png" },
+  "correctAnswer": "HOUSE",
+  "hints": "A building where people live together",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

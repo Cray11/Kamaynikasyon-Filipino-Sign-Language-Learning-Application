@@ -1,0 +1,14 @@
+{
+  "level": {
+    "title": "Big Challenge",
+    "description": "Large 7-row challenge with complex patterns"
+  },
+  "layout": [
+    "3-4-1-2-3-4-1-",
+    "-4-1-2-3-4-1-2",
+    "4-1-2-3-4-1-2-"
+  ],
+  "ballTypes": [1, 2, 3, 4],
+  "ballLetters": {"1": "O", "2": "P", "3": "Q", "4": "R"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}

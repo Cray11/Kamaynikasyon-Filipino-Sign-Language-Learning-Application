@@ -1,0 +1,8 @@
+{
+  "title": "Garden Bloom",
+  "media": { "type": "image", "path": "img/picture_quiz/flower.png" },
+  "correctAnswer": "FLOWER",
+  "hints": "A colorful plant part that blossoms in gardens",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

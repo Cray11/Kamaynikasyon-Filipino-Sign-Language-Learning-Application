@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minWidth="280dp">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:background="@drawable/dialog_rounded_background">
+
+    <TextView
+        android:id="@+id/tv_feedback_emoji"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="16dp"
+        android:text="✓"
+        android:textSize="48sp"
+        android:textColor="@color/correct_color" />
+
+    <TextView
+        android:id="@+id/tv_feedback_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Correct!"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"
+        android:gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/tv_feedback_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Great job! You got it right."
+        android:textSize="16sp"
+        android:textColor="@color/text_secondary"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_continue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:ellipsize="none"
+        app:cornerRadius="8dp" />
+
+    </LinearLayout>
+    
+</FrameLayout>
+

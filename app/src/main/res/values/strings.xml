@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Kamaynikasyon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dictionary">Dictionary</string>
+    <string name="title_minigames">Minigames</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_testing">Testing</string>
+    <string name="minigame_score_format">Score: %1$d</string>
+    <string name="settings">Settings</string>
+    <string name="google_services_unavailable">Google Play services required</string>
+    <string name="google_services_missing_toast">Google Play services are not available on this device.</string>
+
+    <!-- Error Messages -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">Unable to connect. Please check your internet connection.</string>
+    <string name="error_network_retry">Connection failed. Tap to retry.</string>
+    <string name="error_offline">You\'re currently offline. Some features may not be available.</string>
+    <string name="error_loading_failed">Failed to load content. Please try again.</string>
+    <string name="error_saving_failed">Failed to save. Please try again.</string>
+    <string name="error_loading_settings">Unable to load settings. Please try again.</string>
+    <string name="error_saving_settings">Unable to save settings. Please try again.</string>
+    <string name="error_loading_camera_settings">Unable to load camera settings.</string>
+    <string name="error_content_sync_unavailable">Content sync is not available. Supabase is not configured.</string>
+    <string name="error_content_sync_failed">Failed to check for updates. Please try again.</string>
+    <string name="error_clearing_cache">Failed to clear cache. Please try again.</string>
+    <string name="error_loading_lesson">Unable to load lesson. Please try again.</string>
+    <string name="error_lesson_not_found">Lesson not found.</string>
+    <string name="error_loading_quiz">Unable to load quiz. Please try again.</string>
+    <string name="error_quiz_not_found">Quiz not found.</string>
+    <string name="error_loading_video">Unable to load video. Please check your connection and try again.</string>
+    <string name="error_loading_image">Unable to load image. Please check your connection and try again.</string>
+    <string name="error_loading_media">Unable to load media. Please try again.</string>
+    <string name="error_camera_permission">Camera permission is required for sign language detection.</string>
+    <string name="error_camera_setup">Unable to set up camera. Please try again.</string>
+    <string name="error_detection">Sign language detection error occurred.</string>
+    <string name="error_missing_lesson_data">Lesson data is missing. Please sync content.</string>
+    <string name="error_loading_dictionary">Unable to load dictionary. Please try again.</string>
+    <string name="error_loading_words">Failed to load words. Please try again.</string>
+    <string name="error_loading_minigame">Unable to load minigame. Please try again.</string>
+    <string name="error_saving_progress">Unable to save progress. Don\'t worry, your progress will be saved when you\'re back online.</string>
+    <string name="error_authentication">Authentication failed. Please try logging in again.</string>
+    <string name="error_google_signin_failed">Google Sign-In failed. Please try again.</string>
+    <string name="error_google_signin_developer">Google Sign-In configuration error. Please contact support.</string>
+    <string name="error_google_signin_network">Network error during Google Sign-In. Please check your connection.</string>
+    <string name="error_google_signin_cancelled">Google Sign-In was cancelled.</string>
+    <string name="error_google_signin_internal">Internal error during Google Sign-In. Please try again later.</string>
+    <string name="error_email_invalid">Please enter a valid email address.</string>
+    <string name="error_password_too_short">Password must be at least 6 characters.</string>
+    <string name="error_password_mismatch">Passwords do not match.</string>
+    <string name="error_fields_empty">Please fill in all fields.</string>
+    <string name="error_signup_failed">Failed to create account. Please try again.</string>
+    <string name="error_login_failed">Login failed. Please check your credentials and try again.</string>
+    
+    <!-- Success Messages (Additional) -->
+    <string name="success_login">Login successful!</string>
+    <string name="success_signup">Account created successfully!</string>
+    <string name="info_forgot_password">Forgot password feature coming soon!</string>
+    <string name="forgot_password_title">Reset Password</string>
+    <string name="forgot_password_message">Enter your email address and we\'ll send you a link to reset your password.</string>
+    <string name="email">Email</string>
+    <string name="action_send_reset_link">Send Reset Link</string>
+    <string name="action_sending">Sending…</string>
+    <string name="success_password_reset_email_sent">Password reset email sent! Please check your inbox.</string>
+    <string name="error_password_reset_failed">Failed to send password reset email. Please try again.</string>
+    <string name="error_email_not_registered">This email address is not registered.</string>
+
+    <!-- Success Messages -->
+    <string name="success_settings_saved">Settings saved successfully</string>
+    <string name="success_progress_reset">Progress reset successfully</string>
+    <string name="resetting_progress">Resetting progress...</string>
+    <string name="error_progress_reset">Unable to reset progress. Please try again.</string>
+    <string name="success_content_synced">Content synced successfully</string>
+    <string name="success_content_up_to_date">Content is up to date. No sync needed.</string>
+    <string name="sync_skip_message">You can sync content later by going to Settings.</string>
+    <string name="action_skip">Skip</string>
+    <string name="action_not_now">Not Now</string>
+
+    <!-- Action Buttons -->
+    <string name="action_retry">Retry</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_try_again">Try Again</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_go_home">Go to Home</string>
+
+    <!-- Network Status -->
+    <string name="network_offline">You\'re offline</string>
+    <string name="network_online">Back online</string>
+
+    <!-- Empty State Messages -->
+    <string name="empty_lessons_title">No Lessons Available</string>
+    <string name="empty_lessons_message">There are no lessons available at the moment. Please check back later or sync content.</string>
+    <string name="empty_quizzes_title">No Quizzes Available</string>
+    <string name="empty_quizzes_message">There are no quizzes available at the moment. Please check back later or sync content.</string>
+    <string name="empty_dictionary_title">No Dictionary Entries</string>
+    <string name="empty_dictionary_message">The dictionary is empty. Please sync content to load dictionary entries.</string>
+    <string name="empty_words_title">No Words Found</string>
+    <string name="empty_words_message">There are no words in this category yet.</string>
+    <string name="empty_search_results_title">No Results Found</string>
+    <string name="empty_search_results_message">No results match your search. Try different keywords.</string>
+    <string name="empty_search_results_message_with_query">No results found for \"%1$s\". Try different keywords.</string>
+    <string name="empty_minigames_title">No Minigames Available</string>
+    <string name="empty_minigames_message">There are no minigames available at the moment. Please check back later or sync content.</string>
+    <string name="empty_progress_title">No Progress Yet</string>
+    <string name="empty_progress_message">You haven\'t completed any lessons or quizzes yet. Start learning to see your progress!</string>
+    
+    <!-- Empty State Icons (Emoji) -->
+    <string name="empty_state_icon">Empty state icon</string>
+    
+    <!-- Additional Actions -->
+    <string name="action_search">Search</string>
+    <string name="action_start_learning">Start Learning</string>
+
+    <!-- Accessibility Labels -->
+    <string name="content_desc_info">Info</string>
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_app_logo">App Logo</string>
+    <string name="content_desc_profile_image">Profile image</string>
+    <string name="content_desc_question_image">Question image</string>
+    <string name="content_desc_lesson_image">Lesson image</string>
+    <string name="content_desc_camera_arrow">Camera settings toggle</string>
+    <string name="content_desc_picture_quiz_image">Picture quiz question image</string>
+    <string name="content_desc_word_image">Word image</string>
+    <string name="content_desc_gesture_image">Gesture image</string>
+    <string name="content_desc_minigame_icon">Minigame icon</string>
+    <string name="content_desc_settings">Settings</string>
+    <string name="content_desc_arrow_right">Arrow right</string>
+    <string name="content_desc_onboarding_image">Onboarding image</string>
+
+    <!-- Privacy & Terms -->
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="terms_of_service_title">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="accept_terms">I agree to the Terms of Service and Privacy Policy</string>
+    <string name="error_terms_not_accepted">Please accept the Terms of Service and Privacy Policy to continue.</string>
+    <string name="guest_terms_title">Terms &amp; Privacy</string>
+    <string name="guest_terms_message">To continue as a guest, please accept our Terms of Service and Privacy Policy.</string>
+    <string name="action_accept_and_continue">Accept &amp; Continue</string>
+    <string name="privacy_policy_content">Privacy Policy\n\nLast Updated: [12/15/2025]\n\n1. Information We Collect\n\nWe collect information that you provide directly to us, including:\n- Account information (name, email address)\n- Learning progress and achievements\n- Device information for app functionality\n\n2. How We Use Your Information\n\nWe use the information we collect to:\n- Provide and improve our services\n- Track your learning progress\n- Send you notifications (if enabled)\n- Analyze app usage to improve user experience\n\n3. Data Storage\n\nYour data is stored securely using:\n- Firebase Authentication for account management\n- Firebase Firestore for progress synchronization\n- Local device storage for offline access\n\n4. Data Sharing\n\nWe do not sell your personal information. We may share data with:\n- Firebase services (for app functionality)\n- Analytics services (for app improvement)\n\n5. Your Rights\n\nYou have the right to:\n- Access your personal data\n- Request deletion of your data\n- Opt-out of data collection (some features may be unavailable)\n\n6. Children\'s Privacy\n\nOur app is designed for educational purposes. We do not knowingly collect personal information from children under 13.\n\n7. Changes to This Policy\n\nWe may update this privacy policy from time to time. We will notify you of any changes by posting the new policy on this page.\n\n8. Contact Us\n\nIf you have questions about this privacy policy, please contact us through the app settings.</string>
+    
+    <!-- Credits -->
+    <string name="credits">Credits</string>
+    <string name="credits_group_title">Group 1 - Kamaynikasyon</string>
+    <string name="credits_team_members">Enano, Reianna Jennel\nLamsen, Craig Eminem\nMontana, Juniel\nSalgado, John Ross</string>
+    <string name="credits_special_thanks">Special Thanks to:</string>
+    <string name="credits_special_thanks_name">Mr. Jasper Cabral</string>
+    <string name="contact_developer">Contact Developer: junielmontana69@gmail.com</string>
+    <string name="terms_of_service_content">Terms of Service\n\nLast Updated: [12/15/2025]\n\n1. Acceptance of Terms\n\nBy accessing and using Kamaynikasyon, you accept and agree to be bound by these Terms of Service.\n\n2. Description of Service\n\nKamaynikasyon is an educational app designed to teach sign language through interactive lessons, quizzes, and minigames.\n\n3. User Accounts\n\n- You are responsible for maintaining the confidentiality of your account\n- You agree to provide accurate and complete information\n- You are responsible for all activities that occur under your account\n\n4. User Conduct\n\nYou agree not to:\n- Use the app for any illegal purpose\n- Attempt to gain unauthorized access to the app\n- Interfere with or disrupt the app\'s functionality\n- Copy, modify, or distribute app content without permission\n\n5. Intellectual Property\n\nAll content in the app, including lessons, quizzes, and educational materials, is protected by copyright and other intellectual property laws.\n\n6. Limitation of Liability\n\nKamaynikasyon is provided \"as is\" without warranties. We are not liable for any damages arising from your use of the app.\n\n7. Modifications to Service\n\nWe reserve the right to modify or discontinue the service at any time without notice.\n\n8. Termination\n\nWe may terminate or suspend your account if you violate these terms.\n\n9. Governing Law\n\nThese terms are governed by applicable laws.\n\n10. Contact Information\n\nFor questions about these terms, please contact us through the app settings.</string>
+
+    <!-- Data Deletion -->
+    <string name="delete_account_data">Delete Account Data</string>
+    <string name="delete_account_data_title">Delete All Account Data</string>
+    <string name="delete_account_data_message">This will permanently delete:\n\n• All your learning progress\n• All quiz scores and achievements\n• Your profile information\n• All cached content\n• All app settings\n\nThis action cannot be undone. You will be signed out and returned to the login screen.\n\nAre you sure you want to delete all your account data?</string>
+    <string name="action_delete">Delete</string>
+    <string name="success_data_deleted">All account data has been deleted successfully.</string>
+    <string name="error_data_deletion_failed">Failed to delete some data. Please try again.</string>
+    <string name="deleting_data">Deleting data…</string>
+    <string name="app_version_format">Version %1$s</string>
+    <string name="app_version_placeholder">Version --</string>
+    <string name="version_unknown">Unknown</string>
+    <string name="sync_content_button_label">Sync Content</string>
+    <string name="sync_checking_for_updates">Checking for updates…</string>
+    <string name="test_version_admin_only">Test Version mode is limited to admin accounts.</string>
+
+</resources>

@@ -1,0 +1,52 @@
+﻿Kamaynikasyon Tech Stack Overview
+================================
+
+
+1. Android Mobile App (Kotlin)
+   Content Delivery & UI
+   - Kotlin with Jetpack (AppCompat, Material, ConstraintLayout, Lifecycle, Navigation, Paging, ViewPager2, SwipeRefreshLayout).
+     Feature Support: Core UI, navigation flows, reactive state, pagination, pull-to-refresh, multi-screen layouting.
+   - Media3 / ExoPlayer.
+     Feature Support: Playing instructional/lesson videos and interactive media assets.
+   - Glide + Material Calendar View.
+     Feature Support: Loading avatars/media thumbnails and visualizing schedules or streaks.
+
+   Gesture Recognition
+   - CameraX suite.
+     Feature Support: Capturing camera frames with lifecycle-aware previews.
+   - MediaPipe Tasks Vision.
+     Feature Support: Detecting hand landmarks in real time for gesture tracking.
+   - TensorFlow Lite (core, support, metadata, GPU).
+     Feature Support: Running on-device sign-language recognition models.
+
+   Data Management & Sync
+   - Room (runtime + KTX + KAPT compiler).
+     Feature Support: Local caching of user profile/progress and offline data storage.
+   - Supabase (PostgREST, Storage, Functions) with Ktor client + Gson + SLF4J.
+     Feature Support: Accessing Supabase Postgres data, storing media assets, invoking edge functions, JSON serialization, lightweight logging.
+
+   Authentication, Telemetry & Reliability
+   - Firebase Auth, Firestore, Analytics, Crashlytics, Google Play Services Auth.
+     Feature Support: User authentication (email/Google), cloud data sync, analytics, crash reporting, Google sign-in flow.
+
+   Build & Release Tooling
+   - Gradle Kotlin DSL, Android Gradle Plugin 8.11.2, Kotlin 2.0.21, Java 11 toolchain, Kotlin Parcelize, KAPT, ProGuard/R8, resource shrinking.
+     Feature Support: Project configuration, build optimization, parcelization of data classes, dependency injection of secrets via local.properties, secure release builds.
+
+2. Admin Web Console (kamaynikasyon-admin)
+   Content & User Management UI
+   - React with React Router, React Error Boundary, React Icons.
+     Feature Support: SPA for managing lessons, media, users, and logs with routing, iconography, and resilient UI error handling.
+
+   Data Management & Integrations
+   - Supabase JS SDK, Firebase JS SDK.
+     Feature Support: Authenticating admins, fetching/updating Supabase data, leveraging Firebase-hosted assets or auth flows.
+
+   Build, Quality & Deployment
+   - Vite with @vitejs/plugin-react, ES modules.
+     Feature Support: Local dev server, fast bundling, production builds for hosting.
+   - ESLint with React hooks/refresh plugins, @eslint/js, globals, @types/react, @types/react-dom.
+     Feature Support: Linting, type hints for JSX/TS, ensuring hook rules compliance, enabling React Fast Refresh during dev.
+   - Firebase Hosting (npm run deploy).
+     Feature Support: Hosting admin SPA, integrating with Firebase project configs.
+3. (Add din ata yung mga video editing tools ni rei)

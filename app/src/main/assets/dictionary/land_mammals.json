@@ -1,0 +1,104 @@
+{
+  "category": "Land Mammals",
+  "words": [
+    {
+      "id": "land_mammals_001",
+      "name": "Lion",
+      "description": "A large, powerful cat native to Africa and Asia.\nHow to sign:\n1. Use the dominant hand in the 'C' handshape.\n2. Start the hand at the forehead.\n3. Sweep the hand backward over the head (simulating a mane).",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the 'C' handshape. 2. Start the hand at the forehead. 3. Sweep the hand backward over the head (simulating a mane).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Lion.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_002",
+      "name": "Elephant",
+      "description": "A very large herbivorous mammal with a trunk and large ears.\nHow to sign:\n1. Use the dominant hand in the 'B' or '5' handshape.\n2. Start the hand near the nose.\n3. Move the hand downward in an arc (simulating a trunk).",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the 'B' or '5' handshape. 2. Start the hand near the nose. 3. Move the hand downward in an arc (simulating a trunk).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Elephant.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_003",
+      "name": "Dog",
+      "description": "A domesticated carnivore descended from the wolf, commonly kept as a pet.\nHow to sign:\n1. Use the dominant hand in the '5' handshape.\n2. Pat the upper thigh once or twice.",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the '5' handshape. 2. Pat the upper thigh once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Dog.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_004",
+      "name": "Cat",
+      "description": "A small domesticated carnivorous mammal kept as a pet.\nHow to sign:\n1. Use the dominant hand in the 'F' handshape (thumb and index fingertips touching).\n2. Touch the hand to the cheek near the mouth.\n3. Move the hand outward once or twice (simulating whiskers).",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the 'F' handshape (thumb and index fingertips touching). 2. Touch the hand to the cheek near the mouth. 3. Move the hand outward once or twice (simulating whiskers).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Cat.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_005",
+      "name": "Bear",
+      "description": "A large, heavy mammal with thick fur and short legs.\nHow to sign:\n1. Use both hands in the '5' handshape, fingers curved like claws.\n2. Start the hands on opposite sides of the chest.\n3. Cross/scratch the hands downwards twice.",
+      "category": "Land Mammals",
+      "howToSign": "1. Use both hands in the '5' handshape, fingers curved like claws. 2. Start the hands on opposite sides of the chest. 3. Cross/scratch the hands downwards twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Bear.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_006",
+      "name": "Carabao",
+      "description": "A domesticated water buffalo native to the Philippines.\nHow to sign:\n1. Sign BUFFALO: Use both hands in the 'Y' handshape.\n2. Hold the hands at the sides of the head, thumbs pointing down.\n3. Twist the wrists back and forth.",
+      "category": "Land Mammals",
+      "howToSign": "1. Sign BUFFALO: Use both hands in the 'Y' handshape. 2. Hold the hands at the sides of the head, thumbs pointing down. 3. Twist the wrists back and forth.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Carabao.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_007",
+      "name": "Zebra",
+      "description": "An African wild horse with black-and-white stripes.\nHow to sign:\n1. Use the dominant hand in the '4' handshape (four fingers up).\n2. Draw stripes across the non-dominant shoulder or arm.",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the '4' handshape (four fingers up). 2. Draw stripes across the non-dominant shoulder or arm.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Zebra.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_008",
+      "name": "Sheep",
+      "description": "A domesticated animal kept for wool or meat.\nHow to sign:\n1. Use the dominant hand in the 'V' handshape (or 'K').\n2. Tap the hand on the non-dominant forearm twice (simulating shearing wool).",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the 'V' handshape (or 'K'). 2. Tap the hand on the non-dominant forearm twice (simulating shearing wool).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Sheep.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_009",
+      "name": "Horse",
+      "description": "A large, solid-hoofed herbivorous mammal domesticated for riding.\nHow to sign:\n1. Use the dominant hand in the 'U' or 'H' handshape, fingers bent.\n2. Tap the hand on the sides of the forehead twice (simulating ears).",
+      "category": "Land Mammals",
+      "howToSign": "1. Use the dominant hand in the 'U' or 'H' handshape, fingers bent. 2. Tap the hand on the sides of the forehead twice (simulating ears).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Horse.mp4"
+      }
+    }
+  ]
+}

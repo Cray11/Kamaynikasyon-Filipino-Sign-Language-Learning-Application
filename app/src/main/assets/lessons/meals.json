@@ -1,0 +1,154 @@
+{
+  "id": "l_meals",
+  "title": "Meals",
+  "description": "Learn meals in Filipino Sign Language",
+  "difficulty": "Medium",
+  "pages": [
+    {
+      "id": "meals_intro",
+      "type": "text",
+      "title": "Welcome to Meals",
+      "content": "In this lesson, you'll learn how to sign meals in Filipino Sign Language (FSL). You'll learn 4 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Breakfast.mp4"
+      }
+    },
+    {
+      "id": "meals_001",
+      "type": "text",
+      "title": "How to Sign 'Breakfast'",
+      "content": "Learn how to sign 'Breakfast'. The first meal of the day. \n\nHow to sign:\n1. Use the dominant hand in the 'B' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Breakfast.mp4"
+      }
+    },
+    {
+      "id": "meals_002",
+      "type": "text",
+      "title": "How to Sign 'Lunch'",
+      "content": "Learn how to sign 'Lunch'. A meal eaten in the middle of the day. \n\nHow to sign:\n1. Use the dominant hand in the 'L' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Lunch.mp4"
+      }
+    },
+    {
+      "id": "meals_003",
+      "type": "text",
+      "title": "How to Sign 'Snack'",
+      "content": "Learn how to sign 'Snack'. A small amount of food eaten between meals. \n\nHow to sign:\n1. Use the dominant hand in the 'K' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Snack.mp4"
+      }
+    },
+    {
+      "id": "meals_004",
+      "type": "text",
+      "title": "How to Sign 'Dinner'",
+      "content": "Learn how to sign 'Dinner'. The main meal of the day, eaten in the evening. \n\nHow to sign:\n1. Use the dominant hand in the 'D' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Dinner.mp4"
+      }
+    },
+    {
+      "id": "meals_q001",
+      "type": "question",
+      "title": "Practice: Breakfast",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Breakfast'?"
+        },
+        "options": [
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Dinner.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Snack.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Lunch.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Breakfast.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Breakfast'. The first meal of the day.\n\nHow to sign: 1. Use the dominant hand in the 'B' handshape taps mouth/chin."
+      }
+    },
+    {
+      "id": "meals_q003",
+      "type": "question",
+      "title": "Practice: Snack",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Snack'?"
+        },
+        "options": [
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Snack.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Dinner.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Breakfast.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Meals/Lunch.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 0,
+        "explanation": "This sign means 'Snack'. A small amount of food eaten between meals.\n\nHow to sign: 1. Use the dominant hand in the 'K' handshape taps mouth/chin."
+      }
+    }
+  ]
+}

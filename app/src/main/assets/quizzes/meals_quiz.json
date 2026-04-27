@@ -1,0 +1,144 @@
+{
+  "id": "quiz_meals",
+  "title": "Meals Quiz",
+  "description": "Test your knowledge of meals in sign language",
+  "difficulty": "Medium",
+  "questions": [
+    {
+      "id": "meals_q002",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Meals/Lunch.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Dinner"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Lunch"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Snack"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Breakfast"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Lunch'. A meal eaten in the middle of the day."
+    },
+    {
+      "id": "meals_q001",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Meals/Breakfast.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Breakfast"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Snack"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Dinner"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Lunch"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Breakfast'. The first meal of the day."
+    },
+    {
+      "id": "meals_q003",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Meals/Snack.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Lunch"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Dinner"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Snack"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Breakfast"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Snack'. A small amount of food eaten between meals."
+    },
+    {
+      "id": "meals_q004",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Meals/Dinner.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Lunch"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Snack"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Breakfast"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Dinner"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "This sign means 'Dinner'. The main meal of the day, eaten in the evening."
+    }
+  ]
+}

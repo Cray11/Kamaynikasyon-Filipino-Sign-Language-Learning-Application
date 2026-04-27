@@ -1,0 +1,7 @@
+{
+  "title": "Our Home",
+  "correctAnswer": "EARTH",
+  "hints": "Spell EARTH",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

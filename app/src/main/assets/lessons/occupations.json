@@ -1,0 +1,196 @@
+{
+  "id": "l_occupations",
+  "title": "Occupations",
+  "description": "Learn occupations in Filipino Sign Language",
+  "difficulty": "Hard",
+  "pages": [
+    {
+      "id": "occupations_intro",
+      "type": "text",
+      "title": "Welcome to Occupations",
+      "content": "In this lesson, you'll learn how to sign occupations in Filipino Sign Language (FSL). You'll learn 9 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_001",
+      "type": "text",
+      "title": "How to Sign 'Student'",
+      "content": "Learn how to sign 'Student'. A person who is studying at a school or college. \n\nHow to sign:\n1. Sign LEARN: dominant '5' hand takes knowledge from the non-dominant palm and moves it to the forehead. 2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_002",
+      "type": "text",
+      "title": "How to Sign 'Doctor/Nurse'",
+      "content": "Learn how to sign 'Doctor/Nurse'. A person qualified to practice medicine/A person trained to care for the sick. \n\nHow to sign:\n1. Sign DOCTOR: Dominant 'D' handshape taps the wrist (taking a pulse). OR Sign NURSE: Dominant 'N' handshape taps the wrist.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_003",
+      "type": "text",
+      "title": "How to Sign 'Teacher'",
+      "content": "Learn how to sign 'Teacher'. A person who teaches. \n\nHow to sign:\n1. Sign TEACH: Both 'flat O' handshapes start near the sides of the head and move forward simultaneously. 2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_004",
+      "type": "text",
+      "title": "How to Sign 'Police Officer'",
+      "content": "Learn how to sign 'Police Officer'. A member of the civil force responsible for law enforcement. \n\nHow to sign:\n1. Use the dominant hand in the 'C' handshape. 2. Tap the chest where a badge would be.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_005",
+      "type": "text",
+      "title": "How to Sign 'Firefighter'",
+      "content": "Learn how to sign 'Firefighter'. A person who fights fires. \n\nHow to sign:\n1. Use the dominant hand in the 'B' handshape held at the side of the head (simulating a helmet strap). 2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_006",
+      "type": "text",
+      "title": "How to Sign 'Soldier'",
+      "content": "Learn how to sign 'Soldier'. A person who serves in an army. \n\nHow to sign:\n1. Use the dominant hand in the 'A' handshape. 2. Tap the shoulder twice (simulating an epaulet or salute).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_007",
+      "type": "text",
+      "title": "How to Sign 'Mayor/Council Member'",
+      "content": "Learn how to sign 'Mayor/Council Member'. An elected head of a city/A member of a governing council. \n\nHow to sign:\n1. Sign MAYOR: Dominant 'M' handshape taps the opposite shoulder twice. 2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_008",
+      "type": "text",
+      "title": "How to Sign 'Social Worker'",
+      "content": "Learn how to sign 'Social Worker'. A person engaged in social work. \n\nHow to sign:\n1. Sign SOCIAL: Dominant 'S' hand circles forward. 2. Sign WORK: Dominant wrist taps the non-dominant wrist twice. 3. Sign AGENT ('person').",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_009",
+      "type": "text",
+      "title": "How to Sign 'Librarian'",
+      "content": "Learn how to sign 'Librarian'. A person who works in a library. \n\nHow to sign:\n1. Sign LIBRARY: Dominant 'L' handshape moves in a clockwise circle. 2. Sign AGENT ('person'): both flat hands move straight down parallel.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Student.mp4"
+      }
+    },
+    {
+      "id": "occupations_q001",
+      "type": "question",
+      "title": "Practice: Student",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Police Officer"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Librarian"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Teacher"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Student"
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Student'. A person who is studying at a school or college.\n\nHow to sign: 1. Sign LEARN: dominant '5' hand takes knowledge from the non-dominant palm and moves it to the forehead. 2. Sign AGENT ('person'): both flat hands move straight down parallel."
+      }
+    },
+    {
+      "id": "occupations_q003",
+      "type": "question",
+      "title": "Practice: Teacher",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Teacher'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Student.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Student.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Student.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Student.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Teacher'. A person who teaches.\n\nHow to sign: 1. Sign TEACH: Both 'flat O' handshapes start near the sides of the head and move forward simultaneously. 2. Sign AGENT ('person'): both flat hands move straight down parallel."
+      }
+    }
+  ]
+}

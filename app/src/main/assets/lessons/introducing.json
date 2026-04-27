@@ -1,0 +1,266 @@
+{
+  "id": "l_introducing",
+  "title": "Introducing",
+  "description": "Learn introducing in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "introducing_intro",
+      "type": "text",
+      "title": "Welcome to Introducing",
+      "content": "In this lesson, you'll learn how to sign introducing in Filipino Sign Language (FSL). You'll learn 8 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Address.mp4"
+      }
+    },
+    {
+      "id": "introducing_001",
+      "type": "text",
+      "title": "How to Sign 'Address'",
+      "content": "Learn how to sign 'Address'. Used to communicate or ask about where someone lives or their place of residence. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Address.mp4"
+      }
+    },
+    {
+      "id": "introducing_002",
+      "type": "text",
+      "title": "How to Sign 'Age'",
+      "content": "Learn how to sign 'Age'. Used to communicate or ask about how old someone is. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Age.mp4"
+      }
+    },
+    {
+      "id": "introducing_003",
+      "type": "text",
+      "title": "How to Sign 'Birthday'",
+      "content": "Learn how to sign 'Birthday'. Used to communicate or ask about the date when someone was born. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Birthday.mp4"
+      }
+    },
+    {
+      "id": "introducing_004",
+      "type": "text",
+      "title": "How to Sign 'Birthplace'",
+      "content": "Learn how to sign 'Birthplace'. Used to communicate or ask about where someone was born. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Birthplace.mp4"
+      }
+    },
+    {
+      "id": "introducing_005",
+      "type": "text",
+      "title": "How to Sign 'Family'",
+      "content": "Learn how to sign 'Family'. Used to communicate or ask about one's family members and relationships. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Family.mp4"
+      }
+    },
+    {
+      "id": "introducing_006",
+      "type": "text",
+      "title": "How to Sign 'Filipino'",
+      "content": "Learn how to sign 'Filipino'. Used to identify or ask if someone is Filipino. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Filipino.mp4"
+      }
+    },
+    {
+      "id": "introducing_007",
+      "type": "text",
+      "title": "How to Sign 'Nation'",
+      "content": "Learn how to sign 'Nation'. Used to communicate or ask about someone's nationality or country of origin. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Nation.mp4"
+      }
+    },
+    {
+      "id": "introducing_008",
+      "type": "text",
+      "title": "How to Sign 'Work'",
+      "content": "Learn how to sign 'Work'. Used to communicate or ask about someone's occupation or profession. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Introducing/Work.mp4"
+      }
+    },
+    {
+      "id": "introducing_q001",
+      "type": "question",
+      "title": "Practice: Address",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Introducing/Address.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Age"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Nation"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Address"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Birthday"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Address'. Used to communicate or ask about where someone lives or their place of residence."
+      }
+    },
+    {
+      "id": "introducing_q003",
+      "type": "question",
+      "title": "Practice: Birthday",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Introducing/Birthday.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Filipino"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Age"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Address"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Birthday"
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Birthday'. Used to communicate or ask about the date when someone was born."
+      }
+    },
+    {
+      "id": "introducing_q005",
+      "type": "question",
+      "title": "Practice: Family",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Introducing/Family.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Family"
+          },
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Address"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Work"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Birthday"
+          }
+        ],
+        "correctAnswer": 0,
+        "explanation": "This sign means 'Family'. Used to communicate or ask about one's family members and relationships."
+      }
+    },
+    {
+      "id": "introducing_q007",
+      "type": "question",
+      "title": "Practice: Nation",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Nation'?"
+        },
+        "options": [
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Introducing/Nation.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Introducing/Family.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Introducing/Work.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Introducing/Age.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 0,
+        "explanation": "This sign means 'Nation'. Used to communicate or ask about someone's nationality or country of origin."
+      }
+    }
+  ]
+}

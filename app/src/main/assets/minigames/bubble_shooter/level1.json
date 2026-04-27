@@ -1,0 +1,14 @@
+{
+  "level": {
+    "title": "Basic Bubbles",
+    "description": "A simple introduction level with basic patterns"
+  },
+  "layout": [
+    "1-1-0-2-2-0-3-",
+    "-1-4-4-2-5-5-3-0",
+    "0-0-4-0-0-5-0-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "A", "2": "B", "3": "C", "4": "D", "5": "E"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}

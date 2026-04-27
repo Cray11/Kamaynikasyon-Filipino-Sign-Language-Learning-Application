@@ -1,0 +1,15 @@
+{
+  "category": "Farewells",
+  "words": [
+    {
+      "id": "farewell_001",
+      "name": "Bye",
+      "description": "An informal way of saying goodbye, used when parting from someone.",
+      "category": "Farewells",
+      "media": {
+        "type": "video",
+        "path": "vid/Leave Taking/Bye.mp4"
+      }
+    }
+  ]
+}

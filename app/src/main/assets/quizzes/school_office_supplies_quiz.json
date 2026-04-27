@@ -1,0 +1,452 @@
+{
+  "id": "quiz_school_office_supplies",
+  "title": "School/Office Supplies Quiz",
+  "description": "Test your knowledge of school/office supplies in sign language",
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "id": "school_office_supplies_q010",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Backpack.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Glue sticks"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Backpack"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Pens"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Chalk"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Backpack'. A bag with shoulder straps, carried on the back."
+    },
+    {
+      "id": "school_office_supplies_q003",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Notebooks.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Pens"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Notebooks"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Scissors"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Lunch box"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Notebooks'. A book of blank paper for writing notes."
+    },
+    {
+      "id": "school_office_supplies_q002_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Pens'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Scissors.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Lunchbox.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Pens.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Water Bottle.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Pens' is shown in the correct video. 1. Use the dominant hand to do the handwritting gesture"
+    },
+    {
+      "id": "school_office_supplies_q006_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Erasers'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Erasers.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Gluesticks.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Lunchbox.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Scissors.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Erasers' is shown in the correct video. 1. Use the dominant 'E' handshape. \n2. Move/Rub the dominant hand across the non-dominant flat palm, simulating erasing."
+    },
+    {
+      "id": "school_office_supplies_q009",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Scissors.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Rulers"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Lunch box"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Scissors"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Glue sticks"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Scissors'. A cutting instrument consisting of two pivoted blades."
+    },
+    {
+      "id": "school_office_supplies_q001_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Pencils'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Backpack.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Erasers.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Pencils.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Folders.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Pencils' is shown in the correct video. 1. Use the dominant hand in the 'P' handshape (index and middle fingers extended). 2. Do a writting gesture in air"
+    },
+    {
+      "id": "school_office_supplies_q004_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Folders'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Folders.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Notebooks.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Pencils.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Water Bottle.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Folders' is shown in the correct video. 1. Make the letter 'F' Handshape\n2. Simulate the opening of a folder using the 'F' Handshape"
+    },
+    {
+      "id": "school_office_supplies_q008",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Gluesticks.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Folders"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Glue sticks"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Notebooks"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Pens"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Glue sticks'. A solid adhesive in a twist-up tube."
+    },
+    {
+      "id": "school_office_supplies_q011",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Lunchbox.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Scissors"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Notebooks"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Lunch box"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Folders"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Lunch box'. A container used to hold a packed lunch."
+    },
+    {
+      "id": "school_office_supplies_q007",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Rulers.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Pens"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Rulers"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Pencils"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Lunch box"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Rulers'. A straight strip of material used for drawing straight lines or measuring."
+    },
+    {
+      "id": "school_office_supplies_q005",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Chalk.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Folders"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Chalk"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Pens"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Backpack"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Chalk'. A soft, porous limestone used for writing or drawing."
+    },
+    {
+      "id": "school_office_supplies_q012",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/School Supplies/Water Bottle.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Backpack"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Chalk"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Water bottle"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Lunch box"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Water bottle'. A container used to hold water for drinking."
+    }
+  ]
+}

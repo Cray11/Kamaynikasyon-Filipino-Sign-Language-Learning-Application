@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Pyramid Challenge",
+    "description": "Large pyramid formation with mixed colors"
+  },
+  "layout": [
+    "0-0-0-1-0-0-0-",
+    "-0-0-2-3-2-0-0",
+    "0-4-5-1-5-4-0-",
+    "-2-3-4-5-4-3-2",
+    "1-2-3-4-3-2-1-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "G", "2": "H", "3": "I", "4": "J", "5": "K"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

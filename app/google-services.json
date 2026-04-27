@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1037097929957",
+    "project_id": "kamaynikasyon-e760c",
+    "storage_bucket": "kamaynikasyon-e760c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037097929957:android:5bfca3193638d52f65980c",
+        "android_client_info": {
+          "package_name": "com.example.kamaynikasyon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037097929957-1d046jrgjklmdm42ne0njg4vca1gnitg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamaynikasyon",
+            "certificate_hash": "bf390eb63d21e6b053a190d9a22c675c6849b7d8"
+          }
+        },
+        {
+          "client_id": "1037097929957-ts42rnlnln2opn88f85odip6db9ai1gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamaynikasyon",
+            "certificate_hash": "4b94407383976a08d1dacd9f3d0c9a206e48541e"
+          }
+        },
+        {
+          "client_id": "1037097929957-4qtrjhfac25c1j7i81ev0ja06e3bedhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxh-F4J78cxflqTBNKk574eDzcnUFyE-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037097929957-0gb96aski13es7nrn2hk6pk1cq4st3pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

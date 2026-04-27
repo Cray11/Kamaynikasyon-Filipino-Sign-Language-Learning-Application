@@ -1,0 +1,159 @@
+{
+  "onboardingItems": [
+    {
+      "title": "Learn Sign Language",
+      "description": "Take lessons, quizzes and challenge yourself daily!",
+      "emoji": "📚"
+    },
+    {
+        "title": "In App Dictionary",
+        "description": "Learn new signs and words with the in app dictionary!",
+        "emoji": "📖"
+      },
+    {
+      "title": "Play Minigames",
+      "description": "Play minigames to test your skills and have fun!",
+      "emoji": "🎮"
+    },
+    {
+      "title": "Track Your Progress",
+      "description": "Track your progress and see your achievements!",
+      "emoji": "📊"
+    }
+  ],
+  "tutorials": {
+    "lessons": {
+      "tutorialPages": [
+        {
+          "iconRes": "default_image",
+          "title": "Start Lessons",
+          "description": "Complete structured lessons to build your knowledge from the basics."
+        },
+        {
+          "iconRes": "default_image",
+          "title": "Types of Content",
+          "description": "Lessons include videos, images, quizzes, and practice tasks."
+        },
+        {
+          "iconRes": "default_image",
+          "title": "Track Progress",
+          "description": "Review your lesson progress any time."
+        }
+      ]
+    },
+    "quizzes": {
+      "tutorialPages": [
+        {
+          "iconRes": "img/info/q_quiz_time.png",
+          "title": "Quiz Time!",
+          "description": "Test your sign language knowledge with interactive quiz questions. Answer questions about signs, meanings, and gestures!"
+        },
+        {
+          "iconRes": "img/info/q_instant_feedback.png",
+          "title": "Instant Feedback",
+          "description": "Get immediate feedback on your answers! See if you're correct and learn why with detailed explanations for each question."
+        },
+        {
+          "iconRes": "img/info/q_earn_stars.png",
+          "title": "Earn Stars",
+          "description": "Answer correctly and quickly to earn more stars! Build your score and track your progress as you master sign language."
+        }
+      ]
+    },
+    "daily_streak": {
+      "tutorialPages": [
+        {
+          "iconRes": "img/info/dl_daily_quiz.png",
+          "title": "Daily Streak",
+          "description": "Take a new quiz every day to sharpen your sign language skills! Challenge yourself with fresh questions daily."
+        },
+        {
+          "iconRes": "img/info/dq_score_streaks.png",
+          "title": "Score Streaks",
+          "description": "Build your streak by completing daily streaks! Keep your streak going for maximum rewards and track your consistency."
+        },
+        {
+          "iconRes": "img/info/dq_learn_from_mistakes.png",
+          "title": "Learn from Mistakes",
+          "description": "Review your answers and explanations for anything you missed. Learn from mistakes to improve your sign language knowledge!"
+        }
+      ]
+    },
+    "gesture_match": {
+      "tutorialPages": [
+        {
+          "iconRes": "img/info/gm_match_gesture.png",
+          "title": "Match Gestures",
+          "description": "Flip cards to reveal sign language gestures and their meanings. Match each gesture with its correct word!"
+        },
+        {
+          "iconRes": "img/info/gm_see_and_learn.png",
+          "title": "See & Learn",
+          "description": "Watch the sign language videos on each card. Learn the gestures as you play and improve your matching skills!"
+        },
+        {
+          "iconRes": "img/info/gm_try_more.png",
+          "title": "Try More Levels!",
+          "description": "Complete each level to unlock the next challenge. Try more levels to learn more signs and have fun!"
+        }
+      ]
+    },
+    "bubble_shooter": {
+      "tutorialPages": [
+        {
+          "iconRes": "img/info/bb_how_to_play.png",
+          "title": "How to Play",
+          "description": "Shoot bubbles to match colors and pop them. Clear all bubbles to win the level!"
+        },
+        {
+          "iconRes": "img/info/bb_strategy_matters.png",
+          "title": "Strategy Matters",
+          "description": "Plan your shots carefully! Copy the bubble's color by making the gesture inside it to switch your shooter's color."
+        },
+        {
+          "iconRes": "img/info/bb_you_progress.png",
+          "title": "Track Your Progress",
+          "description": "Complete levels to unlock new challenges. Watch your progress grow as you master each level!"
+        }
+      ]
+    },
+    "picture_quiz": {
+      "tutorialPages": [
+        {
+          "iconRes": "img/info/pq_welcome_to_pq.png",
+          "title": "Welcome to Picture Quiz!",
+          "description": "Look at the picture and figure out what sign language word it represents. Use finger spelling to spell your answer!"
+        },
+        {
+          "iconRes": "img/info/pq_your_level.png",
+          "title": "Your Level",
+          "description": "Progress through different levels of difficulty. Each level challenges you with new pictures and words to learn!"
+        },
+        {
+          "iconRes": "img/info/pq_your_score.png",
+          "title": "Your Score",
+          "description": "Earn points for correct answers! Track your score and try to beat your best performance as you learn more signs."
+        }
+      ]
+    },
+    "spelling_sequence": {
+      "tutorialPages": [
+        {
+          "iconRes": "img/info/ss_learn_to_spell.png",
+          "title": "Learn to Spell",
+          "description": "Spell words by selecting the correct sequence of hand signs. Practice finger spelling to improve your skills!"
+        },
+        {
+          "iconRes": "img/info/ss_get_points.png",
+          "title": "Get Points",
+          "description": "Answer correctly and quickly to earn more points. Speed and accuracy both matter for a high score!"
+        },
+        {
+          "iconRes": "img/info/ss_level_up.png",
+          "title": "Level Up",
+          "description": "Complete levels to unlock new challenges. Level up your skills and take on more difficult spelling sequences!"
+        }
+      ]
+    }
+  }
+}

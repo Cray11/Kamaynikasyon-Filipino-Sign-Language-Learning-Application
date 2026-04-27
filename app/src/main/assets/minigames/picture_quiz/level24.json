@@ -1,0 +1,8 @@
+{
+  "title": "Feelings Symbol",
+  "media": { "type": "image", "path": "img/picture_quiz/heart.png" },
+  "correctAnswer": "HEART",
+  "hints": "A shape that stands for love and care",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

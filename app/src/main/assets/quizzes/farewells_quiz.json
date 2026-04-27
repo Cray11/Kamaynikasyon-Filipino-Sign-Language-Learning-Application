@@ -1,0 +1,42 @@
+{
+  "id": "quiz_farewells",
+  "title": "Farewells Quiz",
+  "description": "Test your knowledge of farewells in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "farewells_q001",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Leave Taking/Bye.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Water"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Shelter"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Food"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Bye"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "This sign means 'Bye'. An informal way of saying goodbye, used when parting from someone."
+    }
+  ]
+}

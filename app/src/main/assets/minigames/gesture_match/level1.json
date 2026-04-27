@@ -1,0 +1,17 @@
+{
+  "title": "Greetings Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Basic Greetings/Hello.mp4" },
+      "answer": "Hello"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Basic Greetings/GoodMorning.mp4" },
+      "answer": "Good Morning"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Basic Greetings/Hi(1).mp4" },
+      "answer": "Hi"
+    }
+  ]
+}

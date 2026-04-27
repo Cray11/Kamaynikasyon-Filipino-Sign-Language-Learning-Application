@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy Colors -->
+    <color name="color_teal">#008080</color>
+    <color name="color_aqua">#99FFDD</color>
+    <color name="color_yellow">#FFF777</color>
+    <color name="color_mint">#AAEEAA</color>
+    <color name="color_blue">#6DB6DB</color>
+    <color name="color_black">#FF000000</color>
+    <color name="color_white">#FFFFFFFF</color>
+
+    <!-- App Theme Colors -->
+    <color name="primary_color">#006231</color>
+    <color name="primary_dark">#026A6A</color>
+    <color name="primary_light">#99FFDD</color>
+    <color name="secondary_color">#EDDC0D</color>
+    <color name="secondary_dark">#CCA906</color>
+    <color name="secondary_light">#FFFABC</color>
+    <color name="accent_color">#FFF777</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#9df8db</color>
+    <color name="background_white">#FFFFFFFF</color>
+    <color name="surface_color">#FFFFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+    <color name="text_hint">#FFBDBDBD</color>
+    
+    <!-- Gray Colors -->
+    <color name="gray_100">#FFF5F5F5</color>
+    <color name="gray_200">#FFEEEEEE</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_800">#FF424242</color>
+    <color name="gray_900">#FF212121</color>
+    
+    <!-- Status Colors -->
+    <color name="correct_color">#FF4CAF50</color>
+    <color name="warning_color">#FFFF9800</color>
+    <color name="wrong_color">#FFF44336</color>
+    <color name="info_color">#FF2196F3</color>
+    
+    <!-- Overlay Colors for Hand Landmarks -->
+    <color name="color_primary">#FF2196F3</color>
+    
+    <!-- Ripple/Pressed Colors -->
+    <color name="icPressed">#1F000000</color>
+    <color name="ripple_primary">#1F008080</color>
+    <color name="ripple_secondary">#1F757575</color>
+    <color name="ripple_card">#1F000000</color>
+    
+    <!-- Divider Colors -->
+    <color name="divider_color">#FFE0E0E0</color>
+    
+    <!-- Header Colors -->
+    <color name="header_subtitle_color">#199F5C</color>
+    
+    <!-- Difficulty Button Colors (matching badge colors) -->
+    <color name="difficulty_easy_bg">#E8F5E9</color>
+    <color name="difficulty_easy_selected">#FF4CAF50</color>
+    <color name="difficulty_medium_bg">#FFF3E0</color>
+    <color name="difficulty_medium_selected">#FFFF9800</color>
+    <color name="difficulty_hard_bg">#FFEBEE</color>
+    <color name="difficulty_hard_selected">#FFF44336</color>
+</resources>

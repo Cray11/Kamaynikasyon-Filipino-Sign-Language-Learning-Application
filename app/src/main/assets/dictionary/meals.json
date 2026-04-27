@@ -1,0 +1,49 @@
+{
+  "category": "Meals",
+  "words": [
+    {
+      "id": "meals_001",
+      "name": "Breakfast",
+      "description": "The first meal of the day.\nHow to sign:\n1. Use the dominant hand in the 'B' handshape taps mouth/chin.",
+      "category": "Meals",
+      "howToSign": "1. Use the dominant hand in the 'B' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Breakfast.mp4"
+      }
+    },
+    {
+      "id": "meals_002",
+      "name": "Lunch",
+      "description": "A meal eaten in the middle of the day.\nHow to sign:\n1. Use the dominant hand in the 'L' handshape taps mouth/chin.",
+      "category": "Meals",
+      "howToSign": "1. Use the dominant hand in the 'L' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Lunch.mp4"
+      }
+    },
+    {
+      "id": "meals_003",
+      "name": "Snack",
+      "description": "A small amount of food eaten between meals.\nHow to sign:\n1. Use the dominant hand in the 'K' handshape taps mouth/chin.",
+      "category": "Meals",
+      "howToSign": "1. Use the dominant hand in the 'K' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Snack.mp4"
+      }
+    },
+    {
+      "id": "meals_004",
+      "name": "Dinner",
+      "description": "The main meal of the day, eaten in the evening.\nHow to sign:\n1. Use the dominant hand in the 'D' handshape taps mouth/chin.",
+      "category": "Meals",
+      "howToSign": "1. Use the dominant hand in the 'D' handshape taps mouth/chin.",
+      "media": {
+        "type": "video",
+        "path": "vid/Meals/Dinner.mp4"
+      }
+    }
+  ]
+}

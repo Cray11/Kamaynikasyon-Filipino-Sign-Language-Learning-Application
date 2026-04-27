@@ -1,0 +1,14 @@
+{
+  "level": {
+    "title": "Triangle Formation",
+    "description": "Triangular formation requiring strategic shooting"
+  },
+  "layout": [
+    "1-1-1-0-4-4-4-",
+    "-2-2-0-0-2-2-0-",
+    "0-3-0-0-0-3-0-"
+  ],
+  "ballTypes": [1, 2, 3, 4],
+  "ballLetters": {"1": "K", "2": "L", "3": "M", "4": "N"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}

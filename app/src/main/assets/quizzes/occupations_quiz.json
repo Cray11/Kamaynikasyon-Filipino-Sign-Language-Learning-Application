@@ -1,0 +1,137 @@
+{
+  "id": "quiz_occupations",
+  "title": "Occupations Quiz",
+  "description": "Test your knowledge of occupations in sign language",
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "id": "occupations_q007_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Mayor/Council Member'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Mayor/Council Member' is shown in the correct video. 1. Sign MAYOR: Dominant 'M' handshape taps the opposite shoulder twice. 2. Sign AGENT ('person'): both flat hands move straight down parallel."
+    },
+    {
+      "id": "occupations_q001_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Student'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Student' is shown in the correct video. 1. Sign LEARN: dominant '5' hand takes knowledge from the non-dominant palm and moves it to the forehead. 2. Sign AGENT ('person'): both flat hands move straight down parallel."
+    },
+    {
+      "id": "occupations_q009_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Librarian'?"
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Student.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Librarian' is shown in the correct video. 1. Sign LIBRARY: Dominant 'L' handshape moves in a clockwise circle. 2. Sign AGENT ('person'): both flat hands move straight down parallel."
+    }
+  ]
+}

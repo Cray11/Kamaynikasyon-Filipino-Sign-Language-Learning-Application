@@ -1,0 +1,7 @@
+{
+  "title": "Flowing Water",
+  "correctAnswer": "RIVER",
+  "hints": "Spell RIVER",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

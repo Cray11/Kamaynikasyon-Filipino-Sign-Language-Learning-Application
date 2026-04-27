@@ -1,0 +1,21 @@
+{
+  "minigame": {
+    "title": "Gesture Match",
+    "description": "Match sign language gestures (images/videos) to their correct meanings!",
+    "icon": "✋",
+    "color": "#FFD166"
+  },
+  "levels": [
+    { "file": "level1.json" },
+    { "file": "level2.json" },
+    { "file": "level3.json" },
+    { "file": "level4.json" },
+    { "file": "level5.json" },
+    { "file": "level6.json" },
+    { "file": "level7.json" },
+    { "file": "level8.json" },
+    { "file": "level9.json" },
+    { "file": "level10.json" },
+    { "file": "level11.json" }
+  ]
+}

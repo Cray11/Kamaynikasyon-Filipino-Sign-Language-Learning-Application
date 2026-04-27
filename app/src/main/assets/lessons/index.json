@@ -1,0 +1,37 @@
+{
+  "lessons": [
+    {
+      "file": "basic_needs.json"
+    },
+    {
+      "file": "introducing.json"
+    },
+    {
+      "file": "birds.json"
+    },
+    {
+      "file": "land_mammals.json"
+    },
+    {
+      "file": "reptiles.json"
+    },
+    {
+      "file": "fruits.json"
+    },
+    {
+      "file": "farewells.json"
+    },
+    {
+      "file": "school_office_supplies.json"
+    },
+    {
+      "file": "general_objects_nature.json"
+    },
+    {
+      "file": "meals.json"
+    },
+    {
+      "file": "occupations.json"
+    }
+  ]
+}

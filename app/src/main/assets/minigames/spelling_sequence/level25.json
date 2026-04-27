@@ -1,0 +1,7 @@
+{
+  "title": "Living Creature",
+  "correctAnswer": "ANIMAL",
+  "hints": "Spell ANIMAL",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

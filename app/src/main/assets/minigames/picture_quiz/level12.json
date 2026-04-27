@@ -1,0 +1,8 @@
+{
+  "title": "Shining Day",
+  "media": { "type": "image", "path": "img/picture_quiz/sun.png" },
+  "correctAnswer": "SUN",
+  "hints": "The star that lights up our days",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

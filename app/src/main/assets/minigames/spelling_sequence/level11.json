@@ -1,0 +1,7 @@
+{
+  "title": "Night Light",
+  "correctAnswer": "MOON",
+  "hints": "Spell MOON",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

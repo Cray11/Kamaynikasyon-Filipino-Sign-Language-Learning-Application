@@ -1,0 +1,7 @@
+{
+  "title": "Round Shape",
+  "correctAnswer": "CIRCLE",
+  "hints": "Spell CIRCLE",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

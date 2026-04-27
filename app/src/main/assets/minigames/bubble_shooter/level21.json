@@ -1,0 +1,18 @@
+{
+  "level": {
+    "title": "Side Wings",
+    "description": "Heavy sides with a light middle"
+  },
+  "layout": [
+    "6-6-0-0-0-6-6-",
+    "-6-5-0-0-0-5-6-",
+    "6-5-4-0-4-5-6-",
+    "-6-5-0-0-0-5-6-",
+    "6-6-0-0-0-6-6-",
+    "-0-6-0-0-0-6-0-"
+  ],
+  "ballTypes": [4, 5, 6],
+  "ballLetters": { "4": "U", "5": "V", "6": "W" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

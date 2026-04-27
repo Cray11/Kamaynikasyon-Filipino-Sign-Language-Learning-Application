@@ -1,0 +1,410 @@
+{
+  "id": "l_school_office_supplies",
+  "title": "School/Office Supplies",
+  "description": "Learn school/office supplies in Filipino Sign Language",
+  "difficulty": "Hard",
+  "pages": [
+    {
+      "id": "school_office_supplies_intro",
+      "type": "text",
+      "title": "Welcome to School/Office Supplies",
+      "content": "In this lesson, you'll learn how to sign school/office supplies in Filipino Sign Language (FSL). You'll learn 12 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Pencils.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_001",
+      "type": "text",
+      "title": "How to Sign 'Pencils'",
+      "content": "Learn how to sign 'Pencils'. An implement for writing or drawing with graphite. \n\nHow to sign:\n1. Use the dominant hand in the 'P' handshape (index and middle fingers extended). 2. Do a writting gesture in air",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Pencils.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_002",
+      "type": "text",
+      "title": "How to Sign 'Pens'",
+      "content": "Learn how to sign 'Pens'. An implement for writing or drawing with ink. \n\nHow to sign:\n1. Use the dominant hand to do the handwritting gesture",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Pens.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_003",
+      "type": "text",
+      "title": "How to Sign 'Notebooks'",
+      "content": "Learn how to sign 'Notebooks'. A book of blank paper for writing notes. \n\nHow to sign:\n1. Make the letter 'N' Handshape\n2. Simulate the opening of a notebook using the 'N' Handshape",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Notebooks.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_004",
+      "type": "text",
+      "title": "How to Sign 'Folders'",
+      "content": "Learn how to sign 'Folders'. A folding cover used to hold loose papers. \n\nHow to sign:\n1. Make the letter 'F' Handshape\n2. Simulate the opening of a folder using the 'F' Handshape",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Folders.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_005",
+      "type": "text",
+      "title": "How to Sign 'Chalk'",
+      "content": "Learn how to sign 'Chalk'. A soft, porous limestone used for writing or drawing. \n\nHow to sign:\n1. Use the dominant 'X' handshape (as a piece of chalk). \n2. Do the writting gesture in air",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Chalk.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_006",
+      "type": "text",
+      "title": "How to Sign 'Erasers'",
+      "content": "Learn how to sign 'Erasers'. A piece of soft rubber or plastic used to remove marks. \n\nHow to sign:\n1. Use the dominant 'E' handshape. \n2. Move/Rub the dominant hand across the non-dominant flat palm, simulating erasing.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Erasers.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_007",
+      "type": "text",
+      "title": "How to Sign 'Rulers'",
+      "content": "Learn how to sign 'Rulers'. A straight strip of material used for drawing straight lines or measuring. \n\nHow to sign:\n1. Use the dominant 'R' handshape \n2. Touch back forearm of the non-dominant hand.\n3. Slide the dominant 'R' hadshape to simulate measuring.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Rulers.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_008",
+      "type": "text",
+      "title": "How to Sign 'Glue sticks'",
+      "content": "Learn how to sign 'Glue sticks'. A solid adhesive in a twist-up tube. \n\nHow to sign:\n1. Use '3' and '5' finger and create a pinching gesture on both hands to simulate glue/sticky\n2. On both hands use '4' and '5' finger and create a visulization of a stick.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Gluesticks.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_009",
+      "type": "text",
+      "title": "How to Sign 'Scissors'",
+      "content": "Learn how to sign 'Scissors'. A cutting instrument consisting of two pivoted blades. \n\nHow to sign:\n1. Use the dominant hand in the 'V' handshape, palm facing out. 2. Open and close the fingers like scissors cutting in the air.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Scissors.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_010",
+      "type": "text",
+      "title": "How to Sign 'Backpack'",
+      "content": "Learn how to sign 'Backpack'. A bag with shoulder straps, carried on the back. \n\nHow to sign:\n1. Use the dominant hand to touch your shoulder\n2. Make a curved using the non-dominant hand from the dominant hand to elbow to  create a letter 'B'\n3. Do the wearing backpack gesture.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Backpack.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_011",
+      "type": "text",
+      "title": "How to Sign 'Lunch box'",
+      "content": "Learn how to sign 'Lunch box'. A container used to hold a packed lunch. \n\nHow to sign:\n1. Sign LUNCH: Dominant 'L' hand on the chin. 2. Sign BOX: Two 'B' hands form a square.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Lunchbox.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_012",
+      "type": "text",
+      "title": "How to Sign 'Water bottle'",
+      "content": "Learn how to sign 'Water bottle'. A container used to hold water for drinking. \n\nHow to sign:\n1. Sign WATER ('W' hand on chin). 2. Sign BOTTLE: Dominant 'C' hand moves up from the non-dominant palm.",
+      "media": {
+        "type": "video",
+        "path": "vid/School Supplies/Water Bottle.mp4"
+      }
+    },
+    {
+      "id": "school_office_supplies_q001",
+      "type": "question",
+      "title": "Practice: Pencils",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Pencils'?"
+        },
+        "options": [
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Backpack.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Pencils.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Pens.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Folders.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "This sign means 'Pencils'. An implement for writing or drawing with graphite.\n\nHow to sign: 1. Use the dominant hand in the 'P' handshape (index and middle fingers extended). 2. Do a writting gesture in air"
+      }
+    },
+    {
+      "id": "school_office_supplies_q003",
+      "type": "question",
+      "title": "Practice: Notebooks",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Notebooks.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Pencils"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Rulers"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Notebooks"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Erasers"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Notebooks'. A book of blank paper for writing notes.\n\nHow to sign: 1. Make the letter 'N' Handshape\n2. Simulate the opening of a notebook using the 'N' Handshape"
+      }
+    },
+    {
+      "id": "school_office_supplies_q005",
+      "type": "question",
+      "title": "Practice: Chalk",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Chalk'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Rulers.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Pens.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Chalk.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Water Bottle.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Chalk'. A soft, porous limestone used for writing or drawing.\n\nHow to sign: 1. Use the dominant 'X' handshape (as a piece of chalk). \n2. Do the writting gesture in air"
+      }
+    },
+    {
+      "id": "school_office_supplies_q007",
+      "type": "question",
+      "title": "Practice: Rulers",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/School Supplies/Rulers.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Pencils"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Rulers"
+          },
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Notebooks"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Glue sticks"
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "This sign means 'Rulers'. A straight strip of material used for drawing straight lines or measuring.\n\nHow to sign: 1. Use the dominant 'R' handshape \n2. Touch back forearm of the non-dominant hand.\n3. Slide the dominant 'R' hadshape to simulate measuring."
+      }
+    },
+    {
+      "id": "school_office_supplies_q009",
+      "type": "question",
+      "title": "Practice: Scissors",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Scissors'?"
+        },
+        "options": [
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Notebooks.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Pens.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Chalk.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Scissors.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Scissors'. A cutting instrument consisting of two pivoted blades.\n\nHow to sign: 1. Use the dominant hand in the 'V' handshape, palm facing out. 2. Open and close the fingers like scissors cutting in the air."
+      }
+    },
+    {
+      "id": "school_office_supplies_q011",
+      "type": "question",
+      "title": "Practice: Lunch box",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Lunch box'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Erasers.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Gluesticks.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Lunchbox.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/School Supplies/Folders.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Lunch box'. A container used to hold a packed lunch.\n\nHow to sign: 1. Sign LUNCH: Dominant 'L' hand on the chin. 2. Sign BOX: Two 'B' hands form a square."
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Basic Needs Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Basic Needs/Food.mp4" },
+      "answer": "Food"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Basic Needs/Water.mp4" },
+      "answer": "Water"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Basic Needs/Shelter.mp4" },
+      "answer": "Shelter"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Basic Needs/Sleep.mp4" },
+      "answer": "Sleep"
+    }
+  ]
+}
+

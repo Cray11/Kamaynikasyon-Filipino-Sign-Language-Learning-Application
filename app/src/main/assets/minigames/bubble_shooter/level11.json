@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Checkerboard Mix",
+    "description": "Alternating pattern requiring careful planning"
+  },
+  "layout": [
+    "1-0-2-0-3-0-4-",
+    "-0-5-0-1-0-2-0",
+    "3-0-4-0-5-0-1-",
+    "-0-2-0-3-0-4-0",
+    "5-0-1-0-2-0-3-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "V", "2": "W", "3": "X", "4": "Y", "5": "Z"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

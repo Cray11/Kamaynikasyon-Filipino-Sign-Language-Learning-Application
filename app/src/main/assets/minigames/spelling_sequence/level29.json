@@ -1,0 +1,7 @@
+{
+  "title": "Four Sides",
+  "correctAnswer": "SQUARE",
+  "hints": "Spell SQUARE",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

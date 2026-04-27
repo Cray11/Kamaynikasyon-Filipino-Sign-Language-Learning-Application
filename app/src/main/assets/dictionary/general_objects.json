@@ -1,0 +1,27 @@
+{
+  "category": "General Objects/Nature",
+  "words": [
+    {
+      "id": "general_objects_nature_001",
+      "name": "Building",
+      "description": "A structure with a roof and walls.\nHow to sign:\n1. Use the dominant '5' handshape, palm down, and move it up from the wrist.\n2. Use both hands in 'B' handshapes and move them vertically, tracing the shape of a building.",
+      "category": "General Objects/Nature",
+      "howToSign": "1. Use the dominant '5' handshape, palm down, and move it up from the wrist. 2. Use both hands in 'B' handshapes and move them vertically, tracing the shape of a building.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/building.mp4"
+      }
+    },
+    {
+      "id": "general_objects_nature_002",
+      "name": "Tree",
+      "description": "A woody perennial plant, typically having a single stem or trunk.\nHow to sign:\n1. Rest the dominant elbow on the non-dominant arm (representing the trunk).\n2. Hold the dominant hand in the '5' handshape.\n3. Wiggle the fingers slightly (representing leaves/branches).",
+      "category": "General Objects/Nature",
+      "howToSign": "1. Rest the dominant elbow on the non-dominant arm (representing the trunk). 2. Hold the dominant hand in the '5' handshape. 3. Wiggle the fingers slightly (representing leaves/branches).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Trees.mp4"
+      }
+    }
+  ]
+}

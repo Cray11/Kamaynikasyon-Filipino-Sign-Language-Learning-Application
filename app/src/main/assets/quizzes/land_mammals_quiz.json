@@ -1,0 +1,359 @@
+{
+  "id": "quiz_land_mammals",
+  "title": "Land Mammals Quiz",
+  "description": "Test your knowledge of land mammals in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "land_mammals_q001_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Lion'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Bear.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Lion.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Horse.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Zebra.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sign for 'Lion' is shown in the correct video. 1. Use the dominant hand in the 'C' handshape. 2. Start the hand at the forehead. 3. Sweep the hand backward over the head (simulating a mane)."
+    },
+    {
+      "id": "land_mammals_q004_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Cat'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Cat.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Dog.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Lion.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Zebra.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Cat' is shown in the correct video. 1. Use the dominant hand in the 'F' handshape (thumb and index fingertips touching). 2. Touch the hand to the cheek near the mouth. 3. Move the hand outward once or twice (simulating whiskers)."
+    },
+    {
+      "id": "land_mammals_q002_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Elephant'?"
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Horse.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Bear.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Carabao.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Elephant.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sign for 'Elephant' is shown in the correct video. 1. Use the dominant hand in the 'B' or '5' handshape. 2. Start the hand near the nose. 3. Move the hand downward in an arc (simulating a trunk)."
+    },
+    {
+      "id": "land_mammals_q009_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Horse'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Lion.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Bear.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Horse.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Sheep.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Horse' is shown in the correct video. 1. Use the dominant hand in the 'U' or 'H' handshape, fingers bent. 2. Tap the hand on the sides of the forehead twice (simulating ears)."
+    },
+    {
+      "id": "land_mammals_q007_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Zebra'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Zebra.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Carabao.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Cat.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Sheep.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Zebra' is shown in the correct video. 1. Use the dominant hand in the '4' handshape (four fingers up). 2. Draw stripes across the non-dominant shoulder or arm."
+    },
+    {
+      "id": "land_mammals_q005",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 3/Bear.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Dog"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Zebra"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Bear"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Cat"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Bear'. A large, heavy mammal with thick fur and short legs."
+    },
+    {
+      "id": "land_mammals_q006",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 1/Carabao.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Bear"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Horse"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Cat"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Carabao"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "This sign means 'Carabao'. A domesticated water buffalo native to the Philippines."
+    },
+    {
+      "id": "land_mammals_q008",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 1/Sheep.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Lion"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Zebra"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Sheep"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Horse"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Sheep'. A domesticated animal kept for wool or meat."
+    },
+    {
+      "id": "land_mammals_q003",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 3/Dog.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Zebra"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Dog"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Bear"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Sheep"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Dog'. A domesticated carnivore descended from the wolf, commonly kept as a pet."
+    }
+  ]
+}

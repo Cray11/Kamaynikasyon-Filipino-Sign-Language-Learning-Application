@@ -1,0 +1,8 @@
+{
+  "title": "Shapes 2",
+  "media": { "type": "image", "path": "img/picture_quiz/square.png" },
+  "correctAnswer": "SQUARE",
+  "hints": "A shape with four equal sides and four corners",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

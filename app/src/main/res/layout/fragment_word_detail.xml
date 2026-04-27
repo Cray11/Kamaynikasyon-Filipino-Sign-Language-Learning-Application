@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <!-- Header Section -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:padding="8dp">
+
+            <ImageButton
+                android:id="@+id/btnBack"
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:src="@drawable/img_back"
+                android:contentDescription="@string/content_desc_back"
+                android:layout_marginEnd="16dp"
+                android:layout_gravity="end|center_vertical"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:adjustViewBounds="true"
+                android:padding="8dp"/>
+
+            <TextView
+                android:id="@+id/headerWordName"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Word Detail"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:visibility="invisible"
+                />
+
+            <!-- Empty view to balance the layout -->
+            <View
+                android:layout_width="48dp"
+                android:layout_height="48dp" />
+        </LinearLayout>
+
+        <!-- Word Content Section -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/card_background"
+            android:padding="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="24dp">
+
+            <!-- Word Name with Loading Skeleton -->
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="8dp">
+                
+                <TextView
+                    android:id="@+id/wordName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Word Name"
+                    android:textSize="32sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_primary"
+                    android:gravity="center"
+                    android:visibility="gone" />
+                
+                <!-- Word Name Loading Skeleton -->
+                <View
+                    android:id="@+id/wordNameSkeleton"
+                    android:layout_width="120dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/bg_rounded_corners"
+                    android:backgroundTint="@color/gray_300"
+                    android:visibility="visible" />
+            </FrameLayout>
+
+            <!-- Word Category with Loading Skeleton -->
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="16dp">
+                
+                <TextView
+                    android:id="@+id/wordCategory"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Category"
+                    android:textSize="16sp"
+                    android:textColor="@color/white"
+                    android:background="@drawable/chip_background"
+                    android:padding="8dp"
+                    android:visibility="gone" />
+                
+                <!-- Word Category Loading Skeleton -->
+                <View
+                    android:id="@+id/wordCategorySkeleton"
+                    android:layout_width="80dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/chip_background"
+                    android:backgroundTint="@color/gray_300"
+                    android:visibility="visible" />
+            </FrameLayout>
+
+            <!-- Media Section (Video or Image) -->
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="0dp"
+                app:cardBackgroundColor="@color/white">
+                
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:background="@color/white"
+                    android:minHeight="200dp">
+                    
+                    <!-- Video Loading Skeleton -->
+                    <LinearLayout
+                        android:id="@+id/videoLoadingSkeleton"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:background="@color/white"
+                        android:visibility="gone">
+                        
+                        <com.google.android.material.progressindicator.CircularProgressIndicator
+                            android:layout_width="48dp"
+                            android:layout_height="48dp"
+                            android:indeterminate="true"
+                            app:indicatorColor="@color/primary_color" />
+                        
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Loading video..."
+                            android:textSize="12sp"
+                            android:textColor="@color/text_secondary"
+                            android:layout_marginTop="8dp" />
+                    </LinearLayout>
+                    
+                    <!-- Image Loading Skeleton -->
+                    <LinearLayout
+                        android:id="@+id/imageLoadingSkeleton"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:gravity="center"
+                        android:background="@color/white"
+                        android:visibility="gone">
+                        
+                        <com.google.android.material.progressindicator.CircularProgressIndicator
+                            android:layout_width="48dp"
+                            android:layout_height="48dp"
+                            android:indeterminate="true"
+                            app:indicatorColor="@color/primary_color" />
+                    </LinearLayout>
+                    
+                    <androidx.media3.ui.PlayerView
+                        android:id="@+id/playerView"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:background="@color/white"
+                        android:visibility="gone"
+                        app:resize_mode="fit"
+                        app:show_buffering="when_playing"
+                        app:use_controller="false"
+                        app:surface_type="surface_view" />
+                    
+                    <ImageButton
+                        android:id="@+id/btn_menu_video"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_gravity="top|end"
+                        android:layout_margin="4dp"
+                        android:background="?attr/selectableItemBackgroundBorderless"
+                        android:src="@drawable/ic_fullscreen"
+                        android:contentDescription="Expand video"
+                        android:visibility="gone" />
+                    
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="200dp"
+                        android:layout_height="200dp"
+                        android:layout_gravity="center"
+                        android:background="@color/white"
+                        android:contentDescription="@string/content_desc_word_image"
+                        android:visibility="gone"
+                        android:scaleType="fitCenter"
+                        android:padding="16dp" />
+                </FrameLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Word Description with Loading Skeleton -->
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                
+                <TextView
+                    android:id="@+id/wordDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Word description will appear here..."
+                    android:textSize="16sp"
+                    android:textColor="@color/text_primary"
+                    android:lineSpacingMultiplier="1.2"
+                    android:padding="16dp"
+                    android:background="@drawable/bg_rounded_corners"
+                    android:visibility="gone"/>
+                
+                <!-- Word Description Loading Skeleton -->
+                <LinearLayout
+                    android:id="@+id/wordDescriptionSkeleton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="16dp"
+                    android:background="@drawable/bg_rounded_corners"
+                    android:visibility="visible">
+                    
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="16dp"
+                        android:background="@drawable/bg_rounded_corners"
+                        android:backgroundTint="@color/gray_300"
+                        android:layout_marginBottom="8dp" />
+                    
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="16dp"
+                        android:background="@drawable/bg_rounded_corners"
+                        android:backgroundTint="@color/gray_300"
+                        android:layout_marginBottom="8dp" />
+                    
+                    <View
+                        android:layout_width="200dp"
+                        android:layout_height="16dp"
+                        android:background="@drawable/bg_rounded_corners"
+                        android:backgroundTint="@color/gray_300" />
+                </LinearLayout>
+            </FrameLayout>
+
+        </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+</FrameLayout>

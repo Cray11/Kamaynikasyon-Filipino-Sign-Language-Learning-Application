@@ -1,0 +1,7 @@
+{
+  "title": "Learning Place",
+  "correctAnswer": "SCHOOL",
+  "hints": "Spell SCHOOL",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

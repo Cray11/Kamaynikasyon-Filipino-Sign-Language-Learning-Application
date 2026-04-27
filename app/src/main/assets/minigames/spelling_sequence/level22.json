@@ -1,0 +1,7 @@
+{
+  "title": "Helpful Buddy",
+  "correctAnswer": "FRIEND",
+  "hints": "Spell FRIEND",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@drawable/dialog_rounded_background">
+
+    <TextView
+        android:id="@+id/tv_dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Exit Lesson"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/tv_dialog_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Are you sure you want to exit? Your progress will not be saved."
+        android:textSize="16sp"
+        android:textColor="@color/text_secondary"
+        android:gravity="center"
+        android:layout_marginBottom="24dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_continue_lesson"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.25"
+            android:text="Continue"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:padding="12dp"
+            android:layout_marginEnd="8dp"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:ellipsize="none"
+            app:cornerRadius="16dp"
+            android:backgroundTint="@color/correct_color" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_exit_lesson"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Exit"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:ellipsize="none"
+            android:textColor="@color/white"
+            android:textSize="14sp"
+            android:padding="12dp"
+            android:layout_marginStart="8dp"
+            app:cornerRadius="16dp"
+            android:backgroundTint="@color/wrong_color" />
+
+    </LinearLayout>
+
+</LinearLayout>

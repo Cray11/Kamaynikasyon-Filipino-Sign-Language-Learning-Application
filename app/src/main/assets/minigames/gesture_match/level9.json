@@ -1,0 +1,26 @@
+{
+  "title": "More Fruits Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Strawberry.mp4" },
+      "answer": "Strawberry"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Peach.mp4" },
+      "answer": "Peach"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Pineapple.mp4" },
+      "answer": "Pineapple"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Watermelon.mp4" },
+      "answer": "Watermelon"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Fruits/Cherry.mp4" },
+      "answer": "Cherry"
+    }
+  ]
+}
+

@@ -1,0 +1,12 @@
+{
+  "title": "Animals Signs 3",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/bird.png"
+  },
+  "correctAnswer": "BIRD",
+  "hints": "This sign represents a flying common pet",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

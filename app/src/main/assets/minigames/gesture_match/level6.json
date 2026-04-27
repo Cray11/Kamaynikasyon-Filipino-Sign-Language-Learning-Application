@@ -1,0 +1,22 @@
+{
+  "title": "Colors Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Basic Greetings/Hello.mp4" },
+      "answer": "Red"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Basic Needs/Water.mp4" },
+      "answer": "Blue"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 2/Snake.mp4" },
+      "answer": "Green"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Meals/Breakfast.mp4" },
+      "answer": "Yellow"
+    }
+  ]
+}
+

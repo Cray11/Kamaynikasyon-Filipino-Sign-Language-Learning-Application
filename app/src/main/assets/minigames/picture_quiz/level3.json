@@ -1,0 +1,12 @@
+{
+  "title": "Basic Signs 3",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/hey.png"
+  },
+  "correctAnswer": "HEY",
+  "hints": "This sign represents a friendly greeting, similar to saying 'Hello' in spoken language.",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

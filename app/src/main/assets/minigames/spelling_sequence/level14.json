@@ -1,0 +1,7 @@
+{
+  "title": "Forest Friend",
+  "correctAnswer": "TREE",
+  "hints": "Spell TREE",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

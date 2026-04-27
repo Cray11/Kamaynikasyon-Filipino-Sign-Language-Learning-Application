@@ -1,0 +1,8 @@
+{
+  "title": "Tall Shade",
+  "media": { "type": "image", "path": "img/picture_quiz/tree.png" },
+  "correctAnswer": "TREE",
+  "hints": "It has a trunk, branches, and leaves that give shade",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

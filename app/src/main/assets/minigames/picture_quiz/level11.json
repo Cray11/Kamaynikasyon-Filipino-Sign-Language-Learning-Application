@@ -1,0 +1,8 @@
+{
+  "title": "Night Companion",
+  "media": { "type": "image", "path": "img/picture_quiz/moon.png" },
+  "correctAnswer": "MOON",
+  "hints": "This bright circle changes shape in the sky each night",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

@@ -1,0 +1,325 @@
+{
+  "id": "quiz_greetings",
+  "title": "Greetings Quiz",
+  "description": "Test your knowledge of greetings in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "greetings_q005_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Good Evening'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodMorning.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodEvening.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodNight.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/HowAreYou.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sign for 'Good Evening' is shown in the correct video. "
+    },
+    {
+      "id": "greetings_q004_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Good Afternoon'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodEvening.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodNight.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/Hello.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodAfternoon.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sign for 'Good Afternoon' is shown in the correct video. "
+    },
+    {
+      "id": "greetings_q001",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Basic Greetings/Hello.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Hello"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Good Afternoon"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Good Noon"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Good Morning"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Hello'. A common greeting used to initiate conversation or acknowledge someone's presence."
+    },
+    {
+      "id": "greetings_q003",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Basic Greetings/GoodMorning.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Good Morning"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Good Afternoon"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Hi"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "How Are You"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Good Morning'. A greeting used in the morning hours, typically from dawn until noon."
+    },
+    {
+      "id": "greetings_q002_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Hi'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/Hello.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/Hi(1).mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodAfternoon.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodNoon.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sign for 'Hi' is shown in the correct video. "
+    },
+    {
+      "id": "greetings_q006",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Basic Greetings/GoodNight.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "How Are You"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Good Night"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Hello"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Good Morning"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Good Night'. A farewell greeting used when parting at night or before going to bed."
+    },
+    {
+      "id": "greetings_q008_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'How Are You'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/Hi(1).mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodNoon.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodAfternoon.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/HowAreYou.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sign for 'How Are You' is shown in the correct video. "
+    },
+    {
+      "id": "greetings_q007_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Good Noon'?"
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodAfternoon.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodEvening.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodNoon.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Greetings/GoodMorning.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Good Noon' is shown in the correct video. "
+    }
+  ]
+}

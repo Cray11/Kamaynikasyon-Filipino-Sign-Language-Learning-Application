@@ -1,0 +1,27 @@
+{
+  "category": "Birds",
+  "words": [
+    {
+      "id": "birds_001",
+      "name": "Bird",
+      "description": "A warm-blooded egg-laying vertebrate distinguished by feathers, wings, and a beak.\nHow to sign:\n1. Use the dominant hand, forming a \"beak\" with the index finger and thumb.\n2. Tap the finger and thumb together near the mouth once or twice.",
+      "category": "Birds",
+      "howToSign": "1. Use the dominant hand, forming a \"beak\" with the index finger and thumb. 2. Tap the finger and thumb together near the mouth once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Bird.mp4"
+      }
+    },
+    {
+      "id": "birds_002",
+      "name": "Chicken",
+      "description": "A common domestic fowl kept for its eggs or meat.\nHow to sign:\n1. Use the dominant hand in the 'G' or 'V' handshape.\n2. Start the hand near the mouth.\n3. Peck the hand down toward the non-dominant flat palm.",
+      "category": "Birds",
+      "howToSign": "1. Use the dominant hand in the 'G' or 'V' handshape. 2. Start the hand near the mouth. 3. Peck the hand down toward the non-dominant flat palm.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Chicken.mp4"
+      }
+    }
+  ]
+}

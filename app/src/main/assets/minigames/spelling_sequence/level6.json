@@ -1,0 +1,6 @@
+{
+  "title": "Animal Signs 3",
+  "correctAnswer": "BIRD",
+  "hints": "Spell BIRD",
+  "modelConfig": "ml/alphabet_mapping.json"
+}

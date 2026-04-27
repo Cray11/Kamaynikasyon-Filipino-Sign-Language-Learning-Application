@@ -1,0 +1,86 @@
+{
+  "id": "l_general_objects_nature",
+  "title": "General Objects/Nature",
+  "description": "Learn general objects/nature in Filipino Sign Language",
+  "difficulty": "Medium",
+  "pages": [
+    {
+      "id": "general_objects_nature_intro",
+      "type": "text",
+      "title": "Welcome to General Objects/Nature",
+      "content": "In this lesson, you'll learn how to sign general objects/nature in Filipino Sign Language (FSL). You'll learn 2 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/building.mp4"
+      }
+    },
+    {
+      "id": "general_objects_nature_001",
+      "type": "text",
+      "title": "How to Sign 'Building'",
+      "content": "Learn how to sign 'Building'. A structure with a roof and walls. \n\nHow to sign:\n1. Use the dominant '5' handshape, palm down, and move it up from the wrist. 2. Use both hands in 'B' handshapes and move them vertically, tracing the shape of a building.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/building.mp4"
+      }
+    },
+    {
+      "id": "general_objects_nature_002",
+      "type": "text",
+      "title": "How to Sign 'Tree'",
+      "content": "Learn how to sign 'Tree'. A woody perennial plant, typically having a single stem or trunk. \n\nHow to sign:\n1. Rest the dominant elbow on the non-dominant arm (representing the trunk). 2. Hold the dominant hand in the '5' handshape. 3. Wiggle the fingers slightly (representing leaves/branches).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Trees.mp4"
+      }
+    },
+    {
+      "id": "general_objects_nature_q001",
+      "type": "question",
+      "title": "Practice: Building",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Building'?"
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Food.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Water.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/building.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Basic Needs/Shelter.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Building'. A structure with a roof and walls.\n\nHow to sign: 1. Use the dominant '5' handshape, palm down, and move it up from the wrist. 2. Use both hands in 'B' handshapes and move them vertically, tracing the shape of a building."
+      }
+    }
+  ]
+}

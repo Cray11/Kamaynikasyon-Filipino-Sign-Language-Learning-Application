@@ -1,0 +1,6 @@
+{
+  "title": "Colors 2",
+  "correctAnswer": "BLUE",
+  "hints": "Spell BLUE",
+  "modelConfig": "ml/alphabet_mapping.json"
+}

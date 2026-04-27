@@ -1,0 +1,7 @@
+{
+  "title": "Plant Place",
+  "correctAnswer": "GARDEN",
+  "hints": "Spell GARDEN",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

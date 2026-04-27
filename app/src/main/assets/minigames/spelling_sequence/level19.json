@@ -1,0 +1,7 @@
+{
+  "title": "Fresh Drink",
+  "correctAnswer": "WATER",
+  "hints": "Spell WATER",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

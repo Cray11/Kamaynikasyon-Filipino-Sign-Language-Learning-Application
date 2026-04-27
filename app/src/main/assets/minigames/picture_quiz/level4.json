@@ -1,0 +1,12 @@
+{
+  "title": "Animal Signs",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/cat.png"
+  },
+  "correctAnswer": "CAT",
+  "hints": "This sign represents a household pet",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

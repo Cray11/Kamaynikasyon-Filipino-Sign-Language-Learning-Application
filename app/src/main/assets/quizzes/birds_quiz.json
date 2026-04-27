@@ -1,0 +1,85 @@
+{
+  "id": "quiz_birds",
+  "title": "Birds Quiz",
+  "description": "Test your knowledge of birds in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "birds_q002",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 1/Chicken.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Chicken"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Shelter"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Water"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Food"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Chicken'. A common domestic fowl kept for its eggs or meat."
+    },
+    {
+      "id": "birds_q001_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Bird'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Shelter.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Bird.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Bird' is shown in the correct video. 1. Use the dominant hand, forming a \"beak\" with the index finger and thumb. 2. Tap the finger and thumb together near the mouth once or twice."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "title": "After the Rain",
+  "correctAnswer": "RAINBOW",
+  "hints": "Spell RAINBOW",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

@@ -1,0 +1,8 @@
+{
+  "title": "Feeling Tired",
+  "media": { "type": "image", "path": "img/picture_quiz/sleepy.jpg" },
+  "correctAnswer": "SLEEPY",
+  "hints": "You feel this way when it is time for bed",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

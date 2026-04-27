@@ -1,0 +1,7 @@
+{
+  "title": "Loved Ones",
+  "correctAnswer": "FAMILY",
+  "hints": "Spell FAMILY",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

@@ -1,0 +1,40 @@
+{
+  "quizzes": [
+    {
+      "file": "greetings_quiz.json"
+    },
+    {
+      "file": "basic_needs_quiz.json"
+    },
+    {
+      "file": "birds_quiz.json"
+    },
+    {
+      "file": "land_mammals_quiz.json"
+    },
+    {
+      "file": "reptiles_quiz.json"
+    },
+    {
+      "file": "fruits_quiz.json"
+    },
+    {
+      "file": "introducing_quiz.json"
+    },
+    {
+      "file": "farewells_quiz.json"
+    },
+    {
+      "file": "school_office_supplies_quiz.json"
+    },
+    {
+      "file": "general_objects_nature_quiz.json"
+    },
+    {
+      "file": "meals_quiz.json"
+    },
+    {
+      "file": "occupations_quiz.json"
+    }
+  ]
+}

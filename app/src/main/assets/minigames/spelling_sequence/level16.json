@@ -1,0 +1,7 @@
+{
+  "title": "Home Sweet Home",
+  "correctAnswer": "HOUSE",
+  "hints": "Spell HOUSE",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

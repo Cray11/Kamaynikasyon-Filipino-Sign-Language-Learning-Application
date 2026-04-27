@@ -1,0 +1,8 @@
+{
+  "title": "Shapes 1",
+  "media": { "type": "image", "path": "img/picture_quiz/circle.png" },
+  "correctAnswer": "CIRCLE",
+  "hints": "A round shape with no corners",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

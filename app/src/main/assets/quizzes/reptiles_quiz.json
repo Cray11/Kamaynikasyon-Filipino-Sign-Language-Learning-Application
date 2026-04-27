@@ -1,0 +1,196 @@
+{
+  "id": "quiz_reptiles",
+  "title": "Reptiles Quiz",
+  "description": "Test your knowledge of reptiles in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "reptiles_q003",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 2/Turtle.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Snake"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Turtle"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Alligator"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Crocodile"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Turtle'. A slow-moving reptile encased in a shell."
+    },
+    {
+      "id": "reptiles_q005_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Alligator'?"
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Snake.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Lizard.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Alligator.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Crocodile.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Alligator' is shown in the correct video. 1. Same sign as Crocodile."
+    },
+    {
+      "id": "reptiles_q004_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Crocodile'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Crocodile.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Snake.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Lizard.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 2/Turtle.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Crocodile' is shown in the correct video. 1. Use both hands in the '5' handshape, held flat and stacked at the wrist. 2. Open and close the hands like a large jaw."
+    },
+    {
+      "id": "reptiles_q002",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 2/Lizard.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Lizard"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Crocodile"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Alligator"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Turtle"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Lizard'. A reptile typically having a long body, four legs, and a tapering tail."
+    },
+    {
+      "id": "reptiles_q001",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Animals 2/Snake.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Snake"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Alligator"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Lizard"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Crocodile"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Snake'. A long, legless reptile that moves by gliding on its belly."
+    }
+  ]
+}

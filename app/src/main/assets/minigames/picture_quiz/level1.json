@@ -1,0 +1,12 @@
+{
+  "title": "Basic Signs",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/hi.png"
+  },
+  "correctAnswer": "HI",
+  "hints": "This is a common greeting gesture",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

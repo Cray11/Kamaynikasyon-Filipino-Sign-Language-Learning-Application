@@ -1,0 +1,17 @@
+{
+  "level": {
+    "title": "Wide Spread",
+    "description": "Wide formation with multiple color groups"
+  },
+  "layout": [
+    "1-1-1-0-2-2-2-",
+    "-3-3-3-0-4-4-4",
+    "5-5-5-0-1-1-1-",
+    "-2-2-2-0-3-3-3",
+    "4-4-4-0-5-5-5-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "A", "2": "B", "3": "C", "4": "D", "5": "E"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

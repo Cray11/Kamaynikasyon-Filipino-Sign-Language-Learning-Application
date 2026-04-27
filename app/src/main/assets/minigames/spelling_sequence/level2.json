@@ -1,0 +1,6 @@
+{
+  "title": "Alphabet Basics 2",
+  "correctAnswer": "HELLO",
+  "hints": "Spell HELLO",
+  "modelConfig": "ml/alphabet_mapping.json"
+}

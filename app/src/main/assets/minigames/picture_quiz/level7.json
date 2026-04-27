@@ -1,0 +1,12 @@
+{
+  "title": "Colors 1",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/red.png"
+  },
+  "correctAnswer": "RED",
+  "hints": "This is the color of apples and roses",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

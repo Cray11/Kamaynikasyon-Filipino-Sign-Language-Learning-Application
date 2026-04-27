@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" tools:targetApi="33" />
+    <!-- Camera permission for sign language detection -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- Internet permission for Firebase -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".KamaynikasyonApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Kamaynikasyon">
+        <receiver
+            android:name=".features.quizzes.receivers.DailyStreakReminderReceiver"
+            android:exported="false" />
+        <activity
+            android:name=".features.auth.activities.WelcomeActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name=".features.auth.activities.GetStartedActivity"
+            android:exported="false"
+            android:label="Get Started"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+            
+        <activity
+            android:name=".features.auth.activities.LoginActivity"
+            android:exported="false"
+            android:label="Login"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+            
+        <activity
+            android:name=".features.auth.activities.SignUpActivity"
+            android:exported="false"
+            android:label="Sign Up"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+            
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        
+        <!-- Minigame activities -->
+        <!-- Removed generic MinigameSelectionActivity: each minigame has its own selection screen -->
+
+        <activity
+            android:name=".ui.activities.MinigameGameplayActivity"
+            android:exported="false"
+            android:label="Minigame Gameplay"
+            android:screenOrientation="portrait" />
+            
+        <activity
+            android:name=".minigames.picturequiz.PictureQuizActivity"
+            android:exported="false"
+            android:label="Picture Quiz"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+        <activity
+            android:name=".minigames.picturequiz.PictureQuizSelectionActivity"
+            android:exported="false"
+            android:label="Picture Quiz Levels"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+        <activity
+            android:name=".minigames.spellingsequence.SpellingSequenceSelectionActivity"
+            android:exported="false"
+            android:label="Spelling Sequence Levels"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+        <activity
+            android:name=".minigames.bubbleshooter.BubbleShooterSelectionActivity"
+            android:exported="false"
+            android:label="Bubble Shooter Levels"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+        <activity
+            android:name=".minigames.gesturematch.GestureMatchSelectionActivity"
+            android:exported="false"
+            android:label="Gesture Match Levels"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+    <!-- Gameplay activities for individual minigames -->
+    <activity
+        android:name=".minigames.spellingsequence.SpellingSequenceActivity"
+        android:exported="false"
+        android:label="Spelling Sequence"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+    <activity
+        android:name=".minigames.bubbleshooter.BubbleShooterActivity"
+        android:exported="false"
+        android:label="Bubble Shooter"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+
+    <activity
+        android:name=".minigames.gesturematch.GestureMatchActivity"
+        android:exported="false"
+        android:label="Gesture Match"
+        android:screenOrientation="portrait"
+        android:theme="@style/Theme.Kamaynikasyon.NoActionBar" />
+            
+        <!-- Settings Activity -->
+        <activity
+            android:name=".features.settings.SettingsActivity"
+            android:exported="false"
+            android:label="Settings"
+            android:screenOrientation="portrait" />
+        
+        <!-- Privacy & Terms Activities -->
+        <activity
+            android:name=".features.privacy.PrivacyPolicyActivity"
+            android:exported="false"
+            android:label="@string/privacy_policy_title"
+            android:parentActivityName=".features.settings.SettingsActivity"
+            android:screenOrientation="portrait" />
+        
+        <activity
+            android:name=".features.privacy.TermsOfServiceActivity"
+            android:exported="false"
+            android:label="@string/terms_of_service_title"
+            android:parentActivityName=".features.settings.SettingsActivity"
+            android:screenOrientation="portrait" />
+            
+
+        <!-- Lessons Activities -->
+        <activity
+            android:name=".features.lessons.activities.LessonsActivity"
+            android:exported="false"
+            android:label="Lessons"
+            android:screenOrientation="portrait" />
+            
+        <activity
+            android:name=".features.lessons.activities.LessonActivity"
+            android:exported="false"
+            android:label="Lesson"
+            android:screenOrientation="portrait" />
+            
+        
+            
+        <!-- Quiz Activities -->
+        <activity
+            android:name=".features.quizzes.activities.QuizzesActivity"
+            android:exported="false"
+            android:label="Quizzes"
+            android:screenOrientation="portrait" />
+            
+        <activity
+            android:name=".features.quizzes.activities.QuizSessionActivity"
+            android:exported="false"
+            android:label="Quiz"
+            android:screenOrientation="portrait" />
+            
+        <activity
+            android:name=".features.quizzes.activities.DailyStreakActivity"
+            android:exported="false"
+            android:label="Daily Streak"
+            android:screenOrientation="portrait" />
+            
+        <activity
+            android:name=".features.quizzes.activities.DailyStreakProgressActivity"
+            android:exported="false"
+            android:label="Daily Streak Progress"
+            android:screenOrientation="portrait"
+            android:parentActivityName=".features.quizzes.activities.DailyStreakActivity" />
+            
+        
+    </application>
+
+</manifest>

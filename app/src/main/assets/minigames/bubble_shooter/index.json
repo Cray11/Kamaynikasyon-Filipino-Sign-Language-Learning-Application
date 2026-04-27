@@ -1,0 +1,40 @@
+{
+  "minigame": {
+    "title": "Bubble Shooter",
+    "description": "Shoot colorful balls to match and pop them! Clear all balls to win.",
+    "icon": "🔫",
+    "color": "#FF6B6B"
+  },
+  "levels": [
+    { "file": "level1.json" },
+    { "file": "level2.json" },
+    { "file": "level3.json" },
+    { "file": "level4.json" },
+    { "file": "level5.json" },
+    { "file": "level6.json" },
+    { "file": "level7.json" },
+    { "file": "level8.json" },
+    { "file": "level9.json" },
+    { "file": "level10.json" },
+    { "file": "level11.json" },
+    { "file": "level12.json" },
+    { "file": "level13.json" },
+    { "file": "level14.json" },
+    { "file": "level15.json" },
+    { "file": "level16.json" },
+    { "file": "level17.json" },
+    { "file": "level18.json" },
+    { "file": "level19.json" },
+    { "file": "level20.json" },
+    { "file": "level21.json" },
+    { "file": "level22.json" },
+    { "file": "level23.json" },
+    { "file": "level24.json" },
+    { "file": "level25.json" },
+    { "file": "level26.json" },
+    { "file": "level27.json" },
+    { "file": "level28.json" },
+    { "file": "level29.json" },
+    { "file": "level30.json" }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "l_farewells",
+  "title": "Farewells",
+  "description": "Learn farewells in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "farewells_intro",
+      "type": "text",
+      "title": "Welcome to Farewells",
+      "content": "In this lesson, you'll learn how to sign farewells in Filipino Sign Language (FSL). You'll learn 1 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Leave Taking/Bye.mp4"
+      }
+    },
+    {
+      "id": "farewells_001",
+      "type": "text",
+      "title": "How to Sign 'Bye'",
+      "content": "Learn how to sign 'Bye'. An informal way of saying goodbye, used when parting from someone. ",
+      "media": {
+        "type": "video",
+        "path": "vid/Leave Taking/Bye.mp4"
+      }
+    },
+    {
+      "id": "farewells_q001",
+      "type": "question",
+      "title": "Practice: Bye",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Leave Taking/Bye.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Food"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Water"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Bye"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Shelter"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Bye'. An informal way of saying goodbye, used when parting from someone."
+      }
+    }
+  ]
+}

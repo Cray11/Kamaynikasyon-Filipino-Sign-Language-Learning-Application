@@ -1,0 +1,19 @@
+{
+  "level": {
+    "title": "Master Challenge",
+    "description": "Ultimate challenge with complex multi-layer pattern"
+  },
+  "layout": [
+    "1-2-3-4-5-1-2-",
+    "-3-4-5-1-2-3-4",
+    "5-1-2-3-4-5-1-",
+    "-2-3-4-5-1-2-3",
+    "4-5-1-2-3-4-5-",
+    "-1-2-3-4-5-1-2",
+    "3-4-5-1-2-3-4-"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "P", "2": "Q", "3": "R", "4": "S", "5": "T"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

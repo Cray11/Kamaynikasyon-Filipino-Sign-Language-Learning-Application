@@ -1,0 +1,350 @@
+{
+  "id": "l_fruits",
+  "title": "Fruits",
+  "description": "Learn fruits in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "fruits_intro",
+      "type": "text",
+      "title": "Welcome to Fruits",
+      "content": "In this lesson, you'll learn how to sign fruits in Filipino Sign Language (FSL). You'll learn 10 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Apple.mp4"
+      }
+    },
+    {
+      "id": "fruits_001",
+      "type": "text",
+      "title": "How to Sign 'Apple'",
+      "content": "Learn how to sign 'Apple'. A round fruit with firm, white flesh and skin. \n\nHow to sign:\n1. Use the dominant hand in the 'X' handshape (index finger bent). 2. Place the knuckle of the index finger on the cheek. 3. Twist the hand once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Apple.mp4"
+      }
+    },
+    {
+      "id": "fruits_002",
+      "type": "text",
+      "title": "How to Sign 'Banana'",
+      "content": "Learn how to sign 'Banana'. A long, curved fruit with a yellow peel. \n\nHow to sign:\n1. Use the dominant '1' handshape. 2. Pull the index finger down on the non-dominant index finger (simulating peeling a banana).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Banana.mp4"
+      }
+    },
+    {
+      "id": "fruits_003",
+      "type": "text",
+      "title": "How to Sign 'Orange'",
+      "content": "Learn how to sign 'Orange'. A round, juicy citrus fruit. \n\nHow to sign:\n1. Use the dominant hand in the 'C' handshape. 2. Squeeze the hand twice in front of the mouth.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Orange.mp4"
+      }
+    },
+    {
+      "id": "fruits_004",
+      "type": "text",
+      "title": "How to Sign 'Grapes'",
+      "content": "Learn how to sign 'Grapes'. A small, round, juicy fruit. \n\nHow to sign:\n1. Use the dominant '5' handshape, fingers wiggling. 2. Start at the elbow and move the hand down the non-dominant arm (simulating a cluster).",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Grapes.mp4"
+      }
+    },
+    {
+      "id": "fruits_005",
+      "type": "text",
+      "title": "How to Sign 'Strawberry'",
+      "content": "Learn how to sign 'Strawberry'. A red, juicy fruit with seeds on the surface. \n\nHow to sign:\n1. Place the dominant 'R' shape on the chin. \n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Strawberry.mp4"
+      }
+    },
+    {
+      "id": "fruits_006",
+      "type": "text",
+      "title": "How to Sign 'Watermelon'",
+      "content": "Learn how to sign 'Watermelon'. A large, round fruit with a hard green rind and sweet, red, pulpy flesh. \n\nHow to sign:\n1. Close your non-dominant hand and flick it by the dominant hand.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Watermelon.mp4"
+      }
+    },
+    {
+      "id": "fruits_007",
+      "type": "text",
+      "title": "How to Sign 'Mango'",
+      "content": "Learn how to sign 'Mango'. A fleshy, oval, yellowish-red tropical fruit. \n\nHow to sign:\n1. Use the dominant 'M' handshape to scoop the flat palm of the non-dominant hand.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Mango.mp4"
+      }
+    },
+    {
+      "id": "fruits_008",
+      "type": "text",
+      "title": "How to Sign 'Pineapple'",
+      "content": "Learn how to sign 'Pineapple'. A large, juicy tropical fruit with spiky leaves. \n\nHow to sign:\n1. Use the dominant 'P' handshape and move it up the face in an arc.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Pineapple.mp4"
+      }
+    },
+    {
+      "id": "fruits_009",
+      "type": "text",
+      "title": "How to Sign 'Peach'",
+      "content": "Learn how to sign 'Peach'. A round fruit with fuzzy skin and a large stone. \n\nHow to sign:\n1. Use the dominant 'P' handshape and touch it to the cheeks.\n2. Twist the 'P' handshape back and forth.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Peach.mp4"
+      }
+    },
+    {
+      "id": "fruits_010",
+      "type": "text",
+      "title": "How to Sign 'Cherry'",
+      "content": "Learn how to sign 'Cherry'. A small, round, red fruit with a stone. \n\nHow to sign:\n1. Sign the 'Red Color' sign by placing the tip of the index finger on the chin. \n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit in a stem.",
+      "media": {
+        "type": "video",
+        "path": "vid/Fruits/Cherry.mp4"
+      }
+    },
+    {
+      "id": "fruits_q001",
+      "type": "question",
+      "title": "Practice: Apple",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Apple.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Orange"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Apple"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Grapes"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Mango"
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "This sign means 'Apple'. A round fruit with firm, white flesh and skin.\n\nHow to sign: 1. Use the dominant hand in the 'X' handshape (index finger bent). 2. Place the knuckle of the index finger on the cheek. 3. Twist the hand once or twice."
+      }
+    },
+    {
+      "id": "fruits_q003",
+      "type": "question",
+      "title": "Practice: Orange",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Orange'?"
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Pineapple.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Orange.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Watermelon.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Cherry.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "This sign means 'Orange'. A round, juicy citrus fruit.\n\nHow to sign: 1. Use the dominant hand in the 'C' handshape. 2. Squeeze the hand twice in front of the mouth."
+      }
+    },
+    {
+      "id": "fruits_q005",
+      "type": "question",
+      "title": "Practice: Strawberry",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Strawberry'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Pineapple.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Watermelon.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Banana.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Strawberry.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Strawberry'. A red, juicy fruit with seeds on the surface.\n\nHow to sign: 1. Place the dominant 'R' shape on the chin. \n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit."
+      }
+    },
+    {
+      "id": "fruits_q007",
+      "type": "question",
+      "title": "Practice: Mango",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Mango'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Apple.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Mango.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Peach.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Orange.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "This sign means 'Mango'. A fleshy, oval, yellowish-red tropical fruit.\n\nHow to sign: 1. Use the dominant 'M' handshape to scoop the flat palm of the non-dominant hand."
+      }
+    },
+    {
+      "id": "fruits_q009",
+      "type": "question",
+      "title": "Practice: Peach",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Peach'?"
+        },
+        "options": [
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Banana.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Peach.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Grapes.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Fruits/Strawberry.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 1,
+        "explanation": "This sign means 'Peach'. A round fruit with fuzzy skin and a large stone.\n\nHow to sign: 1. Use the dominant 'P' handshape and touch it to the cheeks.\n2. Twist the 'P' handshape back and forth."
+      }
+    }
+  ]
+}

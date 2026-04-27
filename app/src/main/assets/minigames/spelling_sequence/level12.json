@@ -1,0 +1,7 @@
+{
+  "title": "Bright Point",
+  "correctAnswer": "STAR",
+  "hints": "Spell STAR",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

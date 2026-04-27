@@ -1,0 +1,8 @@
+{
+  "title": "Our Planet",
+  "media": { "type": "image", "path": "img/picture_quiz/earth.png" },
+  "correctAnswer": "EARTH",
+  "hints": "The blue planet we all live on",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

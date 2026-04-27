@@ -1,0 +1,377 @@
+{
+  "id": "quiz_basic_needs",
+  "title": "Basic Needs Quiz",
+  "description": "Test your knowledge of basic needs in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "basic_needs_q008_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Urinate'?"
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Urinate.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/HealthCare.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sign for 'Urinate' is shown in the correct video. 1. Use the dominant hand in the 'U' handshape (index and middle fingers extended), palm facing down. 2. Move the hand forward from the crotch area."
+    },
+    {
+      "id": "basic_needs_q004_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Sleep'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Sleep.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Urinate.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Sleep' is shown in the correct video. 1. Use the dominant hand in the '5' handshape (open) above the face. 2. Move the hand down, closing it into a 'flat O' handshape while touching the chin/cheek area."
+    },
+    {
+      "id": "basic_needs_q005",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Basic Needs/Safety.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Food"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Clothing"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Safety"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Urinate"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Safety'. The condition of being protected from or unlikely to cause danger, risk, or injury."
+    },
+    {
+      "id": "basic_needs_q001_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Food'?"
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Sleep.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Clothing.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "The sign for 'Food' is shown in the correct video. 1. Use the dominant hand in the 'flat O' handshape (fingertips touching thumb). 2. Tap the fingertips to the mouth/chin area once or twice."
+    },
+    {
+      "id": "basic_needs_q007_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Clothing'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Clothing.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Urinate.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Safety.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Clothing' is shown in the correct video. 1. Use both hands in the '5' handshape (palms facing in). 2. Brush the hands down the sides of the chest/body repeatedly."
+    },
+    {
+      "id": "basic_needs_q002_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Water'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Shelter.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/HealthCare.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Safety.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sign for 'Water' is shown in the correct video. 1. Use the dominant hand in the 'W' handshape. 2. Tap the three fingers on the chin once or twice."
+    },
+    {
+      "id": "basic_needs_q009_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Comfort Room'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/ComfortRoom.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Water.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Sleep.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Shelter.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Comfort Room' is shown in the correct video. 1. Sign BATHROOM: Use the dominant hand in the 'T' handshape (thumb between index and middle fingers). 2. Shake the hand twice in space."
+    },
+    {
+      "id": "basic_needs_q006_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Health care'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Safety.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/HealthCare.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Urinate.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Basic Needs/Food.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sign for 'Health care' is shown in the correct video. 1. Sign HEALTH: Use both '5' hands. 2. Tap the dominant middle finger on the shoulder, then tap the non-dominant middle finger on the chest."
+    },
+    {
+      "id": "basic_needs_q003",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Basic Needs/Shelter.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Health care"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Food"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Shelter"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Water"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Shelter'. A place giving temporary protection from bad weather or danger."
+    }
+  ]
+}

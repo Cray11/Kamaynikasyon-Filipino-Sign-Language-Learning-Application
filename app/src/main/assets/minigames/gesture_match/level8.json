@@ -1,0 +1,22 @@
+{
+  "title": "School Supplies Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/School Supplies/Pencils.mp4" },
+      "answer": "Pencils"
+    },
+    {
+      "media": { "type": "video", "path": "vid/School Supplies/Pens.mp4" },
+      "answer": "Pens"
+    },
+    {
+      "media": { "type": "video", "path": "vid/School Supplies/Notebooks.mp4" },
+      "answer": "Notebooks"
+    },
+    {
+      "media": { "type": "video", "path": "vid/School Supplies/Backpack.mp4" },
+      "answer": "Backpack"
+    }
+  ]
+}
+

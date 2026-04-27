@@ -1,0 +1,7 @@
+{
+  "title": "Seat Time",
+  "correctAnswer": "CHAIR",
+  "hints": "Spell CHAIR",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

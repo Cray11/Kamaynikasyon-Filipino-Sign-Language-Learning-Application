@@ -1,0 +1,26 @@
+{
+  "title": "Land Animals Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Animals 1/Carabao.mp4" },
+      "answer": "Carabao"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 1/Horse.mp4" },
+      "answer": "Horse"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 1/Sheep.mp4" },
+      "answer": "Sheep"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 3/Bear.mp4" },
+      "answer": "Bear"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 3/Elephant.mp4" },
+      "answer": "Elephant"
+    }
+  ]
+}
+

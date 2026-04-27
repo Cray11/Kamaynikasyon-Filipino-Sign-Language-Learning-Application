@@ -1,0 +1,393 @@
+{
+  "id": "quiz_fruits",
+  "title": "Fruits Quiz",
+  "description": "Test your knowledge of fruits in sign language",
+  "difficulty": "Easy",
+  "questions": [
+    {
+      "id": "fruits_q004",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Fruits/Grapes.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Apple"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Watermelon"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Strawberry"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Grapes"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "This sign means 'Grapes'. A small, round, juicy fruit."
+    },
+    {
+      "id": "fruits_q002",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Fruits/Banana.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Pineapple"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Banana"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Apple"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Strawberry"
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "This sign means 'Banana'. A long, curved fruit with a yellow peel."
+    },
+    {
+      "id": "fruits_q010_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Cherry'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Cherry.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Watermelon.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Apple.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Orange.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Cherry' is shown in the correct video. 1. Sign the 'Red Color' sign by placing the tip of the index finger on the chin. \n2. Slide the finger downward twice.\n3. Then use the non-dominant handshape 'I' and touch it by all of the fingers to simulate a fruit in a stem."
+    },
+    {
+      "id": "fruits_q001",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Fruits/Apple.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Banana"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Peach"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Apple"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Cherry"
+        }
+      ],
+      "correctAnswer": 2,
+      "explanation": "This sign means 'Apple'. A round fruit with firm, white flesh and skin."
+    },
+    {
+      "id": "fruits_q007_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Mango'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Mango.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Orange.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Watermelon.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Pineapple.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Mango' is shown in the correct video. 1. Use the dominant 'M' handshape to scoop the flat palm of the non-dominant hand."
+    },
+    {
+      "id": "fruits_q006_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Watermelon'?"
+      },
+      "options": [
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Apple.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Watermelon.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Pineapple.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Grapes.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 1,
+      "explanation": "The sign for 'Watermelon' is shown in the correct video. 1. Close your non-dominant hand and flick it by the dominant hand."
+    },
+    {
+      "id": "fruits_q009_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Peach'?"
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Banana.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Apple.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Grapes.mp4"
+          }
+        },
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Peach.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "The sign for 'Peach' is shown in the correct video. 1. Use the dominant 'P' handshape and touch it to the cheeks.\n2. Twist the 'P' handshape back and forth."
+    },
+    {
+      "id": "fruits_q005",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Fruits/Strawberry.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Peach"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Orange"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Apple"
+        },
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Strawberry"
+        }
+      ],
+      "correctAnswer": 3,
+      "explanation": "This sign means 'Strawberry'. A red, juicy fruit with seeds on the surface."
+    },
+    {
+      "id": "fruits_q008",
+      "question": {
+        "type": "video",
+        "media": {
+          "type": "video",
+          "path": "vid/Fruits/Pineapple.mp4"
+        }
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "text",
+          "text": "Pineapple"
+        },
+        {
+          "id": 3,
+          "type": "text",
+          "text": "Watermelon"
+        },
+        {
+          "id": 1,
+          "type": "text",
+          "text": "Mango"
+        },
+        {
+          "id": 2,
+          "type": "text",
+          "text": "Orange"
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "This sign means 'Pineapple'. A large, juicy tropical fruit with spiky leaves."
+    },
+    {
+      "id": "fruits_q003_v",
+      "question": {
+        "type": "text",
+        "text": "What is the sign for 'Orange'?"
+      },
+      "options": [
+        {
+          "id": 0,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Orange.mp4"
+          }
+        },
+        {
+          "id": 1,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Watermelon.mp4"
+          }
+        },
+        {
+          "id": 2,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Peach.mp4"
+          }
+        },
+        {
+          "id": 3,
+          "type": "video",
+          "media": {
+            "type": "video",
+            "path": "vid/Fruits/Grapes.mp4"
+          }
+        }
+      ],
+      "correctAnswer": 0,
+      "explanation": "The sign for 'Orange' is shown in the correct video. 1. Use the dominant hand in the 'C' handshape. 2. Squeeze the hand twice in front of the mouth."
+    }
+  ]
+}

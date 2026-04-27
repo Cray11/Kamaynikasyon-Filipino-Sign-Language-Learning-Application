@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Kamaynikasyon" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Colors -->
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/background_white</item>
+        <item name="colorSecondary">@color/accent_color</item>
+        <item name="colorOnSecondary">@color/text_primary</item>
+        <!-- Background colors -->
+        <item name="android:colorBackground">@color/background_light</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <!-- Ripple colors -->
+        <item name="colorControlHighlight">@color/ripple_primary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <!-- Default font family for the app -->
+        <item name="fontFamily">@font/fredoka_family</item>
+        <item name="android:fontFamily">@font/fredoka_family</item>
+        <!-- Button styles -->
+        <item name="materialButtonStyle">@style/Widget.Kamaynikasyon.Button.Primary</item>
+        <!-- Dialog styles -->
+        <item name="alertDialogTheme">@style/ThemeOverlay.Kamaynikasyon.Dialog</item>
+        <item name="android:alertDialogTheme">@style/ThemeOverlay.Kamaynikasyon.Dialog</item>
+    </style>
+    
+    <!-- Dialog Theme Overlay -->
+    <style name="ThemeOverlay.Kamaynikasyon.Dialog" parent="ThemeOverlay.MaterialComponents.Dialog">
+        <item name="shapeAppearanceOverlay">@style/ShapeAppearanceOverlay.Kamaynikasyon.Dialog</item>
+    </style>
+    
+    <!-- Dialog Shape Appearance -->
+    <style name="ShapeAppearanceOverlay.Kamaynikasyon.Dialog" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    
+    <!-- No Action Bar Theme for Welcome Flow -->
+    <style name="Theme.Kamaynikasyon.NoActionBar" parent="Theme.Kamaynikasyon">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    
+</resources>

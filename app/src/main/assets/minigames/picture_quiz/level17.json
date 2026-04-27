@@ -1,0 +1,8 @@
+{
+  "title": "Feeling Joy",
+  "media": { "type": "image", "path": "img/picture_quiz/happy.png" },
+  "correctAnswer": "HAPPY",
+  "hints": "An emotion shown with a big smile",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

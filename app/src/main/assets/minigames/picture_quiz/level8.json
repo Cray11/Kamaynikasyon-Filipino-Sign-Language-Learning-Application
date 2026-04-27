@@ -1,0 +1,12 @@
+{
+  "title": "Colors 2",
+  "media": {
+    "type": "image",
+    "path": "img/picture_quiz/blue.png"
+  },
+  "correctAnswer": "BLUE",
+  "hints": "This is the color of the sky and ocean",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
+

@@ -1,0 +1,37 @@
+{
+  "modelPath": "ml/alphabet.tflite",
+  "modelName": "Custom Greetings",
+  "inputSize": 42,
+  "outputSize": 26,
+  "confidenceThreshold": 0.4,
+  "mapping": {
+    "0": "Hi",
+    "1": "Hello",
+    "2": "Goodbye",
+    "3": "Thank you",
+    "4": "Please",
+    "5": "Sorry",
+    "6": "Yes",
+    "7": "No",
+    "8": "Good morning",
+    "9": "Good night",
+    "10": "How are you?",
+    "11": "Nice to meet you",
+    "12": "See you later",
+    "13": "Take care",
+    "14": "Good luck",
+    "15": "Congratulations",
+    "16": "Well done",
+    "17": "Keep going",
+    "18": "Don't worry",
+    "19": "Everything is fine",
+    "20": "I love you",
+    "21": "You're welcome",
+    "22": "Excuse me",
+    "23": "Pardon me",
+    "24": "Have a nice day",
+    "25": "Sweet dreams"
+  },
+  "includeConfidence": false
+}
+

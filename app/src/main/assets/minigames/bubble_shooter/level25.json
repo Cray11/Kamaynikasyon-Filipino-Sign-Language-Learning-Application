@@ -1,0 +1,19 @@
+{
+  "level": {
+    "title": "Zigzag Wall",
+    "description": "Sawtooth edges with mid blockers"
+  },
+  "layout": [
+    "3-0-3-0-3-0-3-",
+    "-0-2-0-2-0-2-0-",
+    "3-0-3-0-3-0-3-",
+    "-0-2-0-2-0-2-0-",
+    "3-0-3-0-3-0-3-",
+    "-0-0-2-2-2-0-0-",
+    "0-0-0-2-0-0-0-"
+  ],
+  "ballTypes": [2, 3],
+  "ballLetters": { "2": "H", "3": "I" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

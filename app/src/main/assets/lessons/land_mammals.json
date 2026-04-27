@@ -1,0 +1,324 @@
+{
+  "id": "l_land_mammals",
+  "title": "Land Mammals",
+  "description": "Learn land mammals in Filipino Sign Language",
+  "difficulty": "Easy",
+  "pages": [
+    {
+      "id": "land_mammals_intro",
+      "type": "text",
+      "title": "Welcome to Land Mammals",
+      "content": "In this lesson, you'll learn how to sign land mammals in Filipino Sign Language (FSL). You'll learn 9 important signs with step-by-step instructions and practice questions.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Lion.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_001",
+      "type": "text",
+      "title": "How to Sign 'Lion'",
+      "content": "Learn how to sign 'Lion'. A large, powerful cat native to Africa and Asia. \n\nHow to sign:\n1. Use the dominant hand in the 'C' handshape. 2. Start the hand at the forehead. 3. Sweep the hand backward over the head (simulating a mane).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Lion.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_002",
+      "type": "text",
+      "title": "How to Sign 'Elephant'",
+      "content": "Learn how to sign 'Elephant'. A very large herbivorous mammal with a trunk and large ears. \n\nHow to sign:\n1. Use the dominant hand in the 'B' or '5' handshape. 2. Start the hand near the nose. 3. Move the hand downward in an arc (simulating a trunk).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Elephant.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_003",
+      "type": "text",
+      "title": "How to Sign 'Dog'",
+      "content": "Learn how to sign 'Dog'. A domesticated carnivore descended from the wolf, commonly kept as a pet. \n\nHow to sign:\n1. Use the dominant hand in the '5' handshape. 2. Pat the upper thigh once or twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Dog.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_004",
+      "type": "text",
+      "title": "How to Sign 'Cat'",
+      "content": "Learn how to sign 'Cat'. A small domesticated carnivorous mammal kept as a pet. \n\nHow to sign:\n1. Use the dominant hand in the 'F' handshape (thumb and index fingertips touching). 2. Touch the hand to the cheek near the mouth. 3. Move the hand outward once or twice (simulating whiskers).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Cat.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_005",
+      "type": "text",
+      "title": "How to Sign 'Bear'",
+      "content": "Learn how to sign 'Bear'. A large, heavy mammal with thick fur and short legs. \n\nHow to sign:\n1. Use both hands in the '5' handshape, fingers curved like claws. 2. Start the hands on opposite sides of the chest. 3. Cross/scratch the hands downwards twice.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 3/Bear.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_006",
+      "type": "text",
+      "title": "How to Sign 'Carabao'",
+      "content": "Learn how to sign 'Carabao'. A domesticated water buffalo native to the Philippines. \n\nHow to sign:\n1. Sign BUFFALO: Use both hands in the 'Y' handshape. 2. Hold the hands at the sides of the head, thumbs pointing down. 3. Twist the wrists back and forth.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Carabao.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_007",
+      "type": "text",
+      "title": "How to Sign 'Zebra'",
+      "content": "Learn how to sign 'Zebra'. An African wild horse with black-and-white stripes. \n\nHow to sign:\n1. Use the dominant hand in the '4' handshape (four fingers up). 2. Draw stripes across the non-dominant shoulder or arm.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Zebra.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_008",
+      "type": "text",
+      "title": "How to Sign 'Sheep'",
+      "content": "Learn how to sign 'Sheep'. A domesticated animal kept for wool or meat. \n\nHow to sign:\n1. Use the dominant hand in the 'V' handshape (or 'K'). 2. Tap the hand on the non-dominant forearm twice (simulating shearing wool).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Sheep.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_009",
+      "type": "text",
+      "title": "How to Sign 'Horse'",
+      "content": "Learn how to sign 'Horse'. A large, solid-hoofed herbivorous mammal domesticated for riding. \n\nHow to sign:\n1. Use the dominant hand in the 'U' or 'H' handshape, fingers bent. 2. Tap the hand on the sides of the forehead twice (simulating ears).",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 1/Horse.mp4"
+      }
+    },
+    {
+      "id": "land_mammals_q001",
+      "type": "question",
+      "title": "Practice: Lion",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Lion'?"
+        },
+        "options": [
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 3/Lion.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 1/Sheep.mp4"
+            }
+          },
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 3/Bear.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 3/Elephant.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 0,
+        "explanation": "This sign means 'Lion'. A large, powerful cat native to Africa and Asia.\n\nHow to sign: 1. Use the dominant hand in the 'C' handshape. 2. Start the hand at the forehead. 3. Sweep the hand backward over the head (simulating a mane)."
+      }
+    },
+    {
+      "id": "land_mammals_q003",
+      "type": "question",
+      "title": "Practice: Dog",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Dog.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Sheep"
+          },
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Horse"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Zebra"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Dog"
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Dog'. A domesticated carnivore descended from the wolf, commonly kept as a pet.\n\nHow to sign: 1. Use the dominant hand in the '5' handshape. 2. Pat the upper thigh once or twice."
+      }
+    },
+    {
+      "id": "land_mammals_q005",
+      "type": "question",
+      "title": "Practice: Bear",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 3/Bear.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Sheep"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Lion"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Bear"
+          },
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Zebra"
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Bear'. A large, heavy mammal with thick fur and short legs.\n\nHow to sign: 1. Use both hands in the '5' handshape, fingers curved like claws. 2. Start the hands on opposite sides of the chest. 3. Cross/scratch the hands downwards twice."
+      }
+    },
+    {
+      "id": "land_mammals_q007",
+      "type": "question",
+      "title": "Practice: Zebra",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "text",
+          "text": "What is the sign for 'Zebra'?"
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 3/Dog.mp4"
+            }
+          },
+          {
+            "id": 2,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 3/Cat.mp4"
+            }
+          },
+          {
+            "id": 0,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 1/Zebra.mp4"
+            }
+          },
+          {
+            "id": 3,
+            "type": "video",
+            "media": {
+              "type": "video",
+              "path": "vid/Animals 3/Elephant.mp4"
+            }
+          }
+        ],
+        "correctAnswer": 2,
+        "explanation": "This sign means 'Zebra'. An African wild horse with black-and-white stripes.\n\nHow to sign: 1. Use the dominant hand in the '4' handshape (four fingers up). 2. Draw stripes across the non-dominant shoulder or arm."
+      }
+    },
+    {
+      "id": "land_mammals_q009",
+      "type": "question",
+      "title": "Practice: Horse",
+      "content": "Test your understanding with this question.",
+      "question": {
+        "question": {
+          "type": "video",
+          "text": "What does this sign mean?",
+          "media": {
+            "type": "video",
+            "path": "vid/Animals 1/Horse.mp4"
+          }
+        },
+        "options": [
+          {
+            "id": 1,
+            "type": "text",
+            "text": "Sheep"
+          },
+          {
+            "id": 3,
+            "type": "text",
+            "text": "Bear"
+          },
+          {
+            "id": 2,
+            "type": "text",
+            "text": "Zebra"
+          },
+          {
+            "id": 0,
+            "type": "text",
+            "text": "Horse"
+          }
+        ],
+        "correctAnswer": 3,
+        "explanation": "This sign means 'Horse'. A large, solid-hoofed herbivorous mammal domesticated for riding.\n\nHow to sign: 1. Use the dominant hand in the 'U' or 'H' handshape, fingers bent. 2. Tap the hand on the sides of the forehead twice (simulating ears)."
+      }
+    }
+  ]
+}

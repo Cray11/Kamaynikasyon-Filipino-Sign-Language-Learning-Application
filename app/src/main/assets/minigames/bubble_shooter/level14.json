@@ -1,0 +1,18 @@
+{
+  "level": {
+    "title": "Spiral Formation",
+    "description": "Spiral pattern requiring strategic shooting"
+  },
+  "layout": [
+    "1-1-1-1-1-1-1-",
+    "-2-0-0-0-0-0-2",
+    "3-0-4-4-4-0-3-",
+    "-2-0-4-0-4-0-2",
+    "1-0-0-5-0-0-1-",
+    "-1-1-0-0-0-1-1"
+  ],
+  "ballTypes": [1, 2, 3, 4, 5],
+  "ballLetters": {"1": "K", "2": "L", "3": "M", "4": "N", "5": "O"},
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

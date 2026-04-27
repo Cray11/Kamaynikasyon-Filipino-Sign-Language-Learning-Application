@@ -1,0 +1,60 @@
+{
+  "category": "Reptiles",
+  "words": [
+    {
+      "id": "reptiles_001",
+      "name": "Snake",
+      "description": "A long, legless reptile that moves by gliding on its belly.\nHow to sign:\n1. Use the dominant hand in the 'bent V' handshape (middle and index bent).\n2. Move the hand forward in a serpentine (wiggling) motion.",
+      "category": "Reptiles",
+      "howToSign": "1. Use the dominant hand in the 'bent V' handshape (middle and index bent). 2. Move the hand forward in a serpentine (wiggling) motion.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Snake.mp4"
+      }
+    },
+    {
+      "id": "reptiles_002",
+      "name": "Lizard",
+      "description": "A reptile typically having a long body, four legs, and a tapering tail.\nHow to sign:\n1. Use the dominant hand in the 'L' handshape.\n2. Move the hand in a crawling motion up the non-dominant forearm.",
+      "category": "Reptiles",
+      "howToSign": "1. Use the dominant hand in the 'L' handshape. 2. Move the hand in a crawling motion up the non-dominant forearm.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Lizard.mp4"
+      }
+    },
+    {
+      "id": "reptiles_003",
+      "name": "Turtle",
+      "description": "A slow-moving reptile encased in a shell.\nHow to sign:\n1. Use the non-dominant hand as a 'dome' (shell).\n2. Use the dominant 'A' hand (head/neck).\n3. Tuck the 'A' hand under the dome, then move it forward and out.",
+      "category": "Reptiles",
+      "howToSign": "1. Use the non-dominant hand as a 'dome' (shell). 2. Use the dominant 'A' hand (head/neck). 3. Tuck the 'A' hand under the dome, then move it forward and out.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Turtle.mp4"
+      }
+    },
+    {
+      "id": "reptiles_004",
+      "name": "Crocodile",
+      "description": "A large predatory semiaquatic reptile with a long jaw and powerful tail.\nHow to sign:\n1. Use both hands in the '5' handshape, held flat and stacked at the wrist.\n2. Open and close the hands like a large jaw.",
+      "category": "Reptiles",
+      "howToSign": "1. Use both hands in the '5' handshape, held flat and stacked at the wrist. 2. Open and close the hands like a large jaw.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Crocodile.mp4"
+      }
+    },
+    {
+      "id": "reptiles_005",
+      "name": "Alligator",
+      "description": "A large reptile with a shorter, blunter snout than a crocodile.\nHow to sign:\n1. Same sign as Crocodile.",
+      "category": "Reptiles",
+      "howToSign": "1. Same sign as Crocodile.",
+      "media": {
+        "type": "video",
+        "path": "vid/Animals 2/Alligator.mp4"
+      }
+    }
+  ]
+}

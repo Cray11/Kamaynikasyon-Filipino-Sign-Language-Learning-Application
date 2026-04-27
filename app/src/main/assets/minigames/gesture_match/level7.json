@@ -1,0 +1,26 @@
+{
+  "title": "Animals Match",
+  "pairs": [
+    {
+      "media": { "type": "video", "path": "vid/Animals 3/Dog.mp4" },
+      "answer": "Dog"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 3/Cat.mp4" },
+      "answer": "Cat"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 1/Chicken.mp4" },
+      "answer": "Chicken"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 2/Bird.mp4" },
+      "answer": "Bird"
+    },
+    {
+      "media": { "type": "video", "path": "vid/Animals 2/Snake.mp4" },
+      "answer": "Snake"
+    }
+  ]
+}
+

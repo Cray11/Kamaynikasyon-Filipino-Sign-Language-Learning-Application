@@ -1,0 +1,18 @@
+{
+  "level": {
+    "title": "Corner Crowd",
+    "description": "Corners packed, center sparse"
+  },
+  "layout": [
+    "8-8-0-0-0-8-8-",
+    "-8-0-0-0-0-0-8-",
+    "0-0-9-0-9-0-0-",
+    "-0-0-0-9-0-0-0-",
+    "8-0-0-0-0-0-8-",
+    "-8-8-0-0-0-8-8-"
+  ],
+  "ballTypes": [8, 9],
+  "ballLetters": { "8": "J", "9": "K" },
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+

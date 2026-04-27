@@ -1,0 +1,8 @@
+{
+  "title": "Shapes 3",
+  "media": { "type": "image", "path": "img/picture_quiz/triangle.png" },
+  "correctAnswer": "TRIANGLE",
+  "hints": "A shape with three sides and three corners",
+  "modelConfig": "ml/alphabet_mapping.json"
+}
+
